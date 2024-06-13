@@ -1,0 +1,1304 @@
+﻿06/13 11:10:34 [RenderSystem] Determined driver version for graphics adapter 0 [output 0] '': 30.0.13023.4001
+06/13 11:10:36 [RenderSystem] Alpha to coverage depth-only rendering is broken on AMD driver versions before 30.0.14023.1009, disabling alpha to coverage for driver version 30.0.13023.4001.
+06/13 11:10:37 [RenderSystem] Creating device for graphics adapter 0 'AMD Radeon (TM) RX 640' [vendorid 0x1002]: 30.0.13023.4001
+06/13 11:10:37 [RenderSystem] Loaded video settings config from 'cfg\video.txt'
+06/13 11:10:49 [RenderSystem] Successfully created dx11 swap chain [FlipDiscard | AllowTear]
+06/13 11:10:49 [Filesystem] ---------------
+06/13 11:10:49 [Filesystem] Path ID:             File Path:
+06/13 11:10:49 [Filesystem] ADDONS               "F:\SteamLibrary\steamapps\common\dota 2 beta\game\dota_addons\" 
+06/13 11:10:49 [Filesystem] CONTENT              "F:\SteamLibrary\steamapps\common\dota 2 beta\content\dota\" 
+06/13 11:10:49 [Filesystem] CONTENT              "F:\SteamLibrary\steamapps\common\dota 2 beta\content\core\" 
+06/13 11:10:49 [Filesystem] CONTENTADDONS        "F:\SteamLibrary\steamapps\common\dota 2 beta\content\dota_addons\" 
+06/13 11:10:49 [Filesystem] CONTENTROOT          "F:\SteamLibrary\steamapps\common\dota 2 beta\content\" 
+06/13 11:10:49 [Filesystem] DEFAULT_WRITE_PATH   "F:\SteamLibrary\steamapps\common\dota 2 beta\game\dota\pak01.vpk" (vpk) F:\SteamLibrary\steamapps\common\dota 2 beta\game\dota\pak01.vpk
+06/13 11:10:49 [Filesystem] DEFAULT_WRITE_PATH   "F:\SteamLibrary\steamapps\common\dota 2 beta\game\dota\" 
+06/13 11:10:49 [Filesystem] EXECUTABLE_PATH      "F:\SteamLibrary\steamapps\common\dota 2 beta\game\bin\win64\" 
+06/13 11:10:49 [Filesystem] EXECUTABLE_PATH      "F:\SteamLibrary\steamapps\common\dota 2 beta\game\bin\" 
+06/13 11:10:49 [Filesystem] GAME                 "F:\SteamLibrary\steamapps\common\dota 2 beta\game\dota\pak01.vpk" (vpk) F:\SteamLibrary\steamapps\common\dota 2 beta\game\dota\pak01.vpk
+06/13 11:10:49 [Filesystem] GAME                 "F:\SteamLibrary\steamapps\common\dota 2 beta\game\core\pak01.vpk" (vpk) F:\SteamLibrary\steamapps\common\dota 2 beta\game\core\pak01.vpk
+06/13 11:10:49 [Filesystem] GAME                 "F:\SteamLibrary\steamapps\common\dota 2 beta\game\dota\shaders_pc.vpk" (vpk) F:\SteamLibrary\steamapps\common\dota 2 beta\game\dota\shaders_pc.vpk
+06/13 11:10:49 [Filesystem] GAME                 "F:\SteamLibrary\steamapps\common\dota 2 beta\game\core\shaders_pc.vpk" (vpk) F:\SteamLibrary\steamapps\common\dota 2 beta\game\core\shaders_pc.vpk
+06/13 11:10:49 [Filesystem] GAME                 "F:\SteamLibrary\steamapps\common\dota 2 beta\game\dota\" 
+06/13 11:10:49 [Filesystem] GAME                 "F:\SteamLibrary\steamapps\common\dota 2 beta\game\core\" 
+06/13 11:10:49 [Filesystem] GAMEBIN              "F:\SteamLibrary\steamapps\common\dota 2 beta\game\dota\bin\win64\" 
+06/13 11:10:49 [Filesystem] GAMEBIN              "F:\SteamLibrary\steamapps\common\dota 2 beta\game\dota\bin\" 
+06/13 11:10:49 [Filesystem] GAMEBIN              "F:\SteamLibrary\steamapps\common\dota 2 beta\game\core\bin\win64\" 
+06/13 11:10:49 [Filesystem] GAMEBIN              "F:\SteamLibrary\steamapps\common\dota 2 beta\game\core\bin\" 
+06/13 11:10:49 [Filesystem] GAMEROOT             "F:\SteamLibrary\steamapps\common\dota 2 beta\game\" 
+06/13 11:10:49 [Filesystem] MOD                  "F:\SteamLibrary\steamapps\common\dota 2 beta\game\dota\pak01.vpk" (vpk) F:\SteamLibrary\steamapps\common\dota 2 beta\game\dota\pak01.vpk
+06/13 11:10:49 [Filesystem] MOD                  "F:\SteamLibrary\steamapps\common\dota 2 beta\game\dota\" 
+06/13 11:10:49 [Filesystem] PLATFORM             "F:\SteamLibrary\steamapps\common\dota 2 beta\game\core\pak01.vpk" (vpk) F:\SteamLibrary\steamapps\common\dota 2 beta\game\core\pak01.vpk
+06/13 11:10:49 [Filesystem] PLATFORM             "F:\SteamLibrary\steamapps\common\dota 2 beta\game\core\" 
+06/13 11:10:49 [Filesystem] SHADER_SOURCE        "F:\SteamLibrary\steamapps\common\dota 2 beta\src\shaders\dota\" 
+06/13 11:10:49 [Filesystem] SHADER_SOURCE        "F:\SteamLibrary\steamapps\common\dota 2 beta\src\shaders\core\" 
+06/13 11:10:49 [Filesystem] SHADER_SOURCE        "F:\SteamLibrary\steamapps\common\dota 2 beta\src\shaders\dota_core\" 
+06/13 11:10:49 [Filesystem] SHADER_SOURCE_MOD    "F:\SteamLibrary\steamapps\common\dota 2 beta\src\shaders\dota\" 
+06/13 11:10:49 [Filesystem] SHADER_SOURCE_ROOT   "F:\SteamLibrary\steamapps\common\dota 2 beta\src\shaders\" 
+06/13 11:10:49 [Filesystem] USRLOCAL             "C:\Program Files (x86)\Steam\userdata\892513177\570\local\" 
+06/13 11:10:49 [CommandLine] command line arguments:
+06/13 11:10:49 [CommandLine] -steam +voice_fadeouttime 0 -prewarm_panorama +r_legacy_vsync 1 -condebug
+06/13 11:10:53 [SteamNetSockets] Initialized low level socket/threading support.
+06/13 11:10:53 [SteamNetSockets] Set SteamNetworkingSockets P2P_STUN_ServerList to '162.254.196.68:3478' as per SteamNetworkingSocketsSerialized
+06/13 11:10:53 [SteamNetSockets] SDR RelayNetworkStatus:  avail=Attempting  config=Attempting  anyrelay=Not Attempted   (Attempt #1 to fetch config (only-if-cached) from https://api.steampowered.com/ISteamApps/GetSDRConfig/v1?appid=570)
+06/13 11:10:53 [SteamNetSockets] AuthStatus (steamid:76561198852778905):  Attempting  (Requesting cert)
+06/13 11:10:53 [SteamNetSockets] Pending ping measurement until network config is obtained.
+06/13 11:10:53 [SteamNetSockets] SDR RelayNetworkStatus:  avail=Attempting  config=Attempting  anyrelay=Waiting   (Attempt #1 to fetch config (only-if-cached) from https://api.steampowered.com/ISteamApps/GetSDRConfig/v1?appid=570)
+06/13 11:10:53 [Networking] Got ISteamNetworkingSockets user interfaces from standalone lib
+06/13 11:10:53 [Networking] Network System Initialized
+06/13 11:10:53 [Vfx] No valid vcs file found for shader generic.vfx
+06/13 11:10:53 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1526): Error creating shader generic.vfx for material materials/dev/luminaire.vmat!
+06/13 11:10:53 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1526): Error creating shader generic.vfx for material materials/dev/luminaire.vmat!
+06/13 11:10:53 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1526): Error creating shader generic.vfx for material materials/dev/luminaire.vmat!
+06/13 11:10:53 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1526): Error creating shader generic.vfx for material materials/dev/luminaire.vmat!
+06/13 11:10:53 [RenderSystem] Failed to create D3D11 compute shader "cull_aggregate_fragments.vfx_cs"!  hr=80070057
+06/13 11:10:53 [RenderSystem] Failed to create D3D11 compute shader "cull_aggregate_fragments.vfx_cs"!  hr=80070057
+06/13 11:10:53 [RenderSystem] Failed to create D3D11 compute shader "cull_aggregate_fragments.vfx_cs"!  hr=80070057
+06/13 11:10:53 [RenderSystem] Failed to create D3D11 compute shader "cull_aggregate_fragments.vfx_cs"!  hr=80070057
+06/13 11:10:53 [RenderSystem] Failed to create D3D11 compute shader "cull_aggregate_fragments.vfx_cs"!  hr=80070057
+06/13 11:10:53 [RenderSystem] Failed to create D3D11 compute shader "cull_aggregate_fragments.vfx_cs"!  hr=80070057
+06/13 11:10:53 [RenderSystem] Failed to create D3D11 compute shader "cull_aggregate_fragments.vfx_cs"!  hr=80070057
+06/13 11:10:53 [RenderSystem] Failed to create D3D11 compute shader "cull_aggregate_fragments.vfx_cs"!  hr=80070057
+06/13 11:10:58 Physics Console Communications is not initialized
+06/13 11:10:59 [SoundSystem] Sound Initialization: Finish, Sampling Rate: 48000
+06/13 11:11:02 [Client] CClientSteamContext init ok, logged on = 1
+06/13 11:11:02 [SceneFileCache] Loaded 85200 .vcds from 193 vcdlist files
+06/13 11:11:02 [Client] Event System loaded 93 events from file: vpk:F:/SteamLibrary/steamapps/common/dota 2 beta/game/core/pak01.vpk:resource/core.gameevents.
+06/13 11:11:02 [Client] Event System loaded 270 events from file: vpk:F:/SteamLibrary/steamapps/common/dota 2 beta/game/dota/pak01.vpk:resource/game.gameevents.
+06/13 11:11:03 ReadSteamRemoteStorageFile( bufOut, "cfg/pending_replay_requests.lst" ) -> 0.001096 seconds
+06/13 11:11:03 ReadSteamRemoteStorageFile( bufOut, "scripts/clientstorage.txt" ) -> 0.000939 seconds
+06/13 11:11:05 Found
+06/13 11:11:05 Hero npc_dota_hero_bloodseeker wants to build item_abyssal_blade (via recipe item_recipe_abyssal_blade) in its bot loadout but without all required items!
+Current Loadout: item_tango(S), item_quelling_blade(S), item_magic_wand(S), item_power_treads(1), item_sange_and_yasha(2), item_mage_slayer(3), item_black_king_bar(4), item_basher(5), item_recipe_abyssal_blade(6)
+06/13 11:11:05 Hero npc_dota_hero_bloodseeker has a loadout with 9 non-sellable items (max 6) and 12 total items!
+Loadout: item_tango(S), item_quelling_blade(S), item_magic_wand(S), item_power_treads(1), item_sange_and_yasha(2), item_mage_slayer(3), item_black_king_bar(4), item_basher(5), item_recipe_abyssal_blade(6), item_abyssal_blade(7), item_relic(8), item_butterfly(9)
+06/13 11:11:05 Hero npc_dota_hero_mirana is using an invalid ability mirana_invis in its bot skill build!
+06/13 11:11:05 Hero npc_dota_hero_mirana is using an invalid ability mirana_invis in its bot skill build!
+06/13 11:11:05 Hero npc_dota_hero_mirana is using an invalid ability mirana_invis in its bot skill build!
+06/13 11:11:05 Hero npc_dota_hero_nevermore is using an invalid ability special_bonus_attack_speed_25 in its bot skill build!
+06/13 11:11:05 Hero npc_dota_hero_nevermore is using an invalid ability special_bonus_unique_nevermore_shadowraze_cooldown in its bot skill build!
+06/13 11:11:05 Hero npc_dota_hero_tiny is using an invalid ability special_bonus_strength_10 in its bot skill build!
+06/13 11:11:05 Hero npc_dota_hero_zuus wants to build item_bloodstone (via recipe item_recipe_bloodstone) in its bot loadout but without all required items!
+Current Loadout: item_tango(S), item_clarity(S), item_clarity(S), item_arcane_boots(1), item_blink(2), item_kaya(3), item_voodoo_mask(4), item_soul_booster(5), item_recipe_bloodstone(6)
+06/13 11:11:05 Hero npc_dota_hero_zuus has a loadout with 9 non-sellable items (max 6) and 12 total items!
+Loadout: item_tango(S), item_clarity(S), item_clarity(S), item_arcane_boots(1), item_blink(2), item_kaya(3), item_voodoo_mask(4), item_soul_booster(5), item_recipe_bloodstone(6), item_bloodstone(7), item_aether_lens(8), item_refresher(9)
+06/13 11:11:05 Hero npc_dota_hero_riki wants to build item_abyssal_blade (via recipe item_recipe_abyssal_blade) in its bot loadout but without all required items!
+Current Loadout: item_tango(S), item_flask(S), item_power_treads(1), item_magic_wand(S), item_blade_of_alacrity(2), item_diffusal_blade(3), item_butterfly(4), item_sange_and_yasha(5), item_mage_slayer(6), item_basher(7), item_recipe_abyssal_blade(8)
+06/13 11:11:05 Hero npc_dota_hero_riki has a loadout with 9 non-sellable items (max 6) and 12 total items!
+Loadout: item_tango(S), item_flask(S), item_power_treads(1), item_magic_wand(S), item_blade_of_alacrity(2), item_diffusal_blade(3), item_butterfly(4), item_sange_and_yasha(5), item_mage_slayer(6), item_basher(7), item_recipe_abyssal_blade(8), item_abyssal_blade(9)
+06/13 11:11:05 Hero npc_dota_hero_skeleton_king is using an invalid ability skeleton_king_bone_guard in its bot skill build!
+06/13 11:11:05 Hero npc_dota_hero_skeleton_king is using an invalid ability special_bonus_agility_10 in its bot skill build!
+06/13 11:11:05 Hero npc_dota_hero_skeleton_king is using an invalid ability skeleton_king_bone_guard in its bot skill build!
+06/13 11:11:05 Hero npc_dota_hero_skeleton_king is using an invalid ability skeleton_king_bone_guard in its bot skill build!
+06/13 11:11:05 Hero npc_dota_hero_skeleton_king is using an invalid ability skeleton_king_bone_guard in its bot skill build!
+06/13 11:11:05 Hero npc_dota_hero_death_prophet is using an invalid ability special_bonus_attack_damage_30 in its bot skill build!
+06/13 11:11:05 Hero npc_dota_hero_death_prophet is using an invalid ability special_bonus_hp_300 in its bot skill build!
+06/13 11:11:05 Hero npc_dota_hero_phantom_assassin wants to build item_abyssal_blade (via recipe item_recipe_abyssal_blade) in its bot loadout but without all required items!
+Current Loadout: item_tango(S), item_flask(S), item_magic_wand(S), item_power_treads(1), item_black_king_bar(2), item_mage_slayer(3), item_basher(4), item_recipe_abyssal_blade(5)
+06/13 11:11:05 Hero npc_dota_hero_phantom_assassin has a loadout with 9 non-sellable items (max 6) and 12 total items!
+Loadout: item_tango(S), item_flask(S), item_magic_wand(S), item_power_treads(1), item_black_king_bar(2), item_mage_slayer(3), item_basher(4), item_recipe_abyssal_blade(5), item_abyssal_blade(6), item_satanic(7), item_assault(8), item_monkey_king_bar(9)
+06/13 11:11:05 Hero npc_dota_hero_dragon_knight is using an invalid ability special_bonus_hp_400 in its bot skill build!
+06/13 11:11:05 Hero npc_dota_hero_jakiro is using an invalid ability jakiro_liquid_fire in its bot skill build!
+06/13 11:11:05 Hero npc_dota_hero_jakiro is using an invalid ability jakiro_liquid_fire in its bot skill build!
+06/13 11:11:05 Hero npc_dota_hero_jakiro is using an invalid ability jakiro_liquid_fire in its bot skill build!
+06/13 11:11:05 Hero npc_dota_hero_jakiro is using an invalid ability jakiro_liquid_fire in its bot skill build!
+06/13 11:11:05 ReadSteamRemoteStorageFile( bufOut, "cfg/dotakeys_personal.lst" ) -> 0.001602 seconds
+06/13 11:11:08 [Networking] Field C_DOTA_Item_RiverPainter::m_iRiverPaintColor specified an unknown field change callback OnRiverColorChanged!
+06/13 11:11:08 [Networking] CEntitySystem::BuildEntityNetworking (parallel build of client) took 1437.889 msecs for 3253 out of 3339 classes
+06/13 11:11:14 ReadSteamRemoteStorageFile( bufOut, "cfg/dota_player_loadout_shuffle.txt" ) -> 0.001286 seconds
+06/13 11:11:14 [ResourceSystem] Failed loading resource "scripts/trophies_staging.vdata_c" (ERROR_FILEOPEN: File not found)
+06/13 11:11:14 [ResourceSystem] Failed loading resource "scripts/candy_shops_staging.vdata_c" (ERROR_FILEOPEN: File not found)
+06/13 11:11:14 [ResourceSystem] Failed loading resource "scripts/roadtoti_staging.vdata_c" (ERROR_FILEOPEN: File not found)
+06/13 11:11:14 [ResourceSystem] Failed loading resource "scripts/featured_gamemodes_staging.vdata_c" (ERROR_FILEOPEN: File not found)
+06/13 11:11:14 [ResourceSystem] Failed loading resource "scripts/ping_wheel_staging.vdata_c" (ERROR_FILEOPEN: File not found)
+06/13 11:11:14 [ResourceSystem] Failed loading resource "scripts/tracked_stats_match_staging.vdata_c" (ERROR_FILEOPEN: File not found)
+06/13 11:11:14 [ResourceSystem] Failed loading resource "scripts/tracked_stats_team_staging.vdata_c" (ERROR_FILEOPEN: File not found)
+06/13 11:11:14 [ResourceSystem] Failed loading resource "scripts/tracked_stats_player_staging.vdata_c" (ERROR_FILEOPEN: File not found)
+06/13 11:11:14 Telling Steam it is safe to update the app
+06/13 11:11:14 [GCClient] Logged on to Steam, set GC connection state to NO_SESSION
+06/13 11:11:14 [GCClient] Recv msg 4009 (k_EMsgGCClientConnectionStatus), 10 bytes
+06/13 11:11:14 [GCClient] Notifying GC we don't need a session.
+06/13 11:11:14 [GCClient] Send msg 4006 (k_EMsgGCClientHello), 111 bytes
+06/13 11:11:20 ReadSteamRemoteStorageFile( bufOut, "cfg/contextual_tips_history.json" ) -> 0.012691 seconds
+06/13 11:11:20 [GCClient] Trying to send message type 8879 (k_EMsgClientToGCRankRequest) before GC connection established.  This is guaranteed to fail.
+06/13 11:11:20 [Server] Event System loaded 93 events from file: vpk:F:/SteamLibrary/steamapps/common/dota 2 beta/game/core/pak01.vpk:resource/core.gameevents.
+06/13 11:11:20 [Server] Event System loaded 270 events from file: vpk:F:/SteamLibrary/steamapps/common/dota 2 beta/game/dota/pak01.vpk:resource/game.gameevents.
+06/13 11:11:22 Found
+06/13 11:11:22 Hero npc_dota_hero_bloodseeker wants to build item_abyssal_blade (via recipe item_recipe_abyssal_blade) in its bot loadout but without all required items!
+Current Loadout: item_tango(S), item_quelling_blade(S), item_magic_wand(S), item_power_treads(1), item_sange_and_yasha(2), item_mage_slayer(3), item_black_king_bar(4), item_basher(5), item_recipe_abyssal_blade(6)
+06/13 11:11:22 Hero npc_dota_hero_bloodseeker has a loadout with 9 non-sellable items (max 6) and 12 total items!
+Loadout: item_tango(S), item_quelling_blade(S), item_magic_wand(S), item_power_treads(1), item_sange_and_yasha(2), item_mage_slayer(3), item_black_king_bar(4), item_basher(5), item_recipe_abyssal_blade(6), item_abyssal_blade(7), item_relic(8), item_butterfly(9)
+06/13 11:11:22 Hero npc_dota_hero_mirana is using an invalid ability mirana_invis in its bot skill build!
+06/13 11:11:22 Hero npc_dota_hero_mirana is using an invalid ability mirana_invis in its bot skill build!
+06/13 11:11:22 Hero npc_dota_hero_mirana is using an invalid ability mirana_invis in its bot skill build!
+06/13 11:11:22 Hero npc_dota_hero_nevermore is using an invalid ability special_bonus_attack_speed_25 in its bot skill build!
+06/13 11:11:22 Hero npc_dota_hero_nevermore is using an invalid ability special_bonus_unique_nevermore_shadowraze_cooldown in its bot skill build!
+06/13 11:11:22 Hero npc_dota_hero_tiny is using an invalid ability special_bonus_strength_10 in its bot skill build!
+06/13 11:11:22 Hero npc_dota_hero_zuus wants to build item_bloodstone (via recipe item_recipe_bloodstone) in its bot loadout but without all required items!
+Current Loadout: item_tango(S), item_clarity(S), item_clarity(S), item_arcane_boots(1), item_blink(2), item_kaya(3), item_voodoo_mask(4), item_soul_booster(5), item_recipe_bloodstone(6)
+06/13 11:11:22 Hero npc_dota_hero_zuus has a loadout with 9 non-sellable items (max 6) and 12 total items!
+Loadout: item_tango(S), item_clarity(S), item_clarity(S), item_arcane_boots(1), item_blink(2), item_kaya(3), item_voodoo_mask(4), item_soul_booster(5), item_recipe_bloodstone(6), item_bloodstone(7), item_aether_lens(8), item_refresher(9)
+06/13 11:11:22 Hero npc_dota_hero_riki wants to build item_abyssal_blade (via recipe item_recipe_abyssal_blade) in its bot loadout but without all required items!
+Current Loadout: item_tango(S), item_flask(S), item_power_treads(1), item_magic_wand(S), item_blade_of_alacrity(2), item_diffusal_blade(3), item_butterfly(4), item_sange_and_yasha(5), item_mage_slayer(6), item_basher(7), item_recipe_abyssal_blade(8)
+06/13 11:11:22 Hero npc_dota_hero_riki has a loadout with 9 non-sellable items (max 6) and 12 total items!
+Loadout: item_tango(S), item_flask(S), item_power_treads(1), item_magic_wand(S), item_blade_of_alacrity(2), item_diffusal_blade(3), item_butterfly(4), item_sange_and_yasha(5), item_mage_slayer(6), item_basher(7), item_recipe_abyssal_blade(8), item_abyssal_blade(9)
+06/13 11:11:22 Hero npc_dota_hero_skeleton_king is using an invalid ability skeleton_king_bone_guard in its bot skill build!
+06/13 11:11:22 Hero npc_dota_hero_skeleton_king is using an invalid ability special_bonus_agility_10 in its bot skill build!
+06/13 11:11:22 Hero npc_dota_hero_skeleton_king is using an invalid ability skeleton_king_bone_guard in its bot skill build!
+06/13 11:11:22 Hero npc_dota_hero_skeleton_king is using an invalid ability skeleton_king_bone_guard in its bot skill build!
+06/13 11:11:22 Hero npc_dota_hero_skeleton_king is using an invalid ability skeleton_king_bone_guard in its bot skill build!
+06/13 11:11:22 Hero npc_dota_hero_death_prophet is using an invalid ability special_bonus_attack_damage_30 in its bot skill build!
+06/13 11:11:22 Hero npc_dota_hero_death_prophet is using an invalid ability special_bonus_hp_300 in its bot skill build!
+06/13 11:11:22 Hero npc_dota_hero_phantom_assassin wants to build item_abyssal_blade (via recipe item_recipe_abyssal_blade) in its bot loadout but without all required items!
+Current Loadout: item_tango(S), item_flask(S), item_magic_wand(S), item_power_treads(1), item_black_king_bar(2), item_mage_slayer(3), item_basher(4), item_recipe_abyssal_blade(5)
+06/13 11:11:22 Hero npc_dota_hero_phantom_assassin has a loadout with 9 non-sellable items (max 6) and 12 total items!
+Loadout: item_tango(S), item_flask(S), item_magic_wand(S), item_power_treads(1), item_black_king_bar(2), item_mage_slayer(3), item_basher(4), item_recipe_abyssal_blade(5), item_abyssal_blade(6), item_satanic(7), item_assault(8), item_monkey_king_bar(9)
+06/13 11:11:22 Hero npc_dota_hero_dragon_knight is using an invalid ability special_bonus_hp_400 in its bot skill build!
+06/13 11:11:22 Hero npc_dota_hero_jakiro is using an invalid ability jakiro_liquid_fire in its bot skill build!
+06/13 11:11:22 Hero npc_dota_hero_jakiro is using an invalid ability jakiro_liquid_fire in its bot skill build!
+06/13 11:11:22 Hero npc_dota_hero_jakiro is using an invalid ability jakiro_liquid_fire in its bot skill build!
+06/13 11:11:22 Hero npc_dota_hero_jakiro is using an invalid ability jakiro_liquid_fire in its bot skill build!
+06/13 11:11:26 [Networking] Field CDOTA_Item_RiverPainter::m_iRiverPaintColor specified an unknown field change callback OnRiverColorChanged!
+06/13 11:11:27 [Networking] CEntitySystem::BuildEntityNetworking (parallel build of server) took 1957.498 msecs for 3245 out of 3321 classes
+06/13 11:11:42 Failed to load mutations file! scripts/battlepass/ti2018/mutations.txt
+06/13 11:11:42 [STARTUP] {90.404} server module init ok
+06/13 11:11:43 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1526): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_default.vmat!
+06/13 11:11:43 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1526): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_default.vmat!
+06/13 11:11:43 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1526): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_default.vmat!
+06/13 11:11:43 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1526): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_default.vmat!
+06/13 11:11:43 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1526): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_opaque.vmat!
+06/13 11:11:43 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1526): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_opaque.vmat!
+06/13 11:11:43 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1526): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_opaque.vmat!
+06/13 11:11:43 [MaterialSystem] CMaterial2::LoadShadersAndSetupModes(1526): Error creating shader generic.vfx for material dev/panorama_world_panel_lit_opaque.vmat!
+06/13 11:11:47 [ResourceSystem] Failed loading resource "soundevents/soundevents_test.vsndevts_c" (ERROR_FILEOPEN: File not found)
+06/13 11:11:48 [HostStateManager] CHostStateMgr::QueueNewRequest( Idle (levelload), 1 )
+06/13 11:11:48 ChangeGameUIState: DOTA_GAME_UI_STATE_INVALID -> DOTA_GAME_UI_STATE_LOADING_SCREEN
+06/13 11:11:48 Source2Init OK
+06/13 11:11:48 [HostStateManager] HostStateRequest::Start(HSR_IDLE):  loop(levelload) id(1) addons() desc(Idle (levelload))
+06/13 11:11:48 [EngineServiceManager] SwitchToLoop levelload requested:  id [1] addons []
+06/13 11:11:49 ReadSteamRemoteStorageFile( bufOut, "cfg/viewedheropatches.cfg" ) -> 0.003229 seconds
+06/13 11:11:50 Successfully loaded player info from 'scripts/dota_pro_player_info.json'
+06/13 11:11:50 ReadSteamRemoteStorageFile( bufOut, "cfg/challenge_selections.cfg" ) -> 0.003023 seconds
+06/13 11:11:50 ReadSteamRemoteStorageFile( bufOut, "scripts/dota_acknowledged_violators.txt" ) -> 0.002706 seconds
+06/13 11:11:50 ReadSteamRemoteStorageFile( bufOut, "cfg/herobuilds.cfg" ) -> 0.002871 seconds
+06/13 11:11:50 ReadSteamRemoteStorageFile( bufOut, "cfg/saved_sets.kv" ) -> 0.002708 seconds
+06/13 11:11:50 ReadSteamRemoteStorageFile( bufOut, "cfg/dismissed_help_tips.txt" ) -> 0.002914 seconds
+06/13 11:11:50 Novel Dialogue minigame-01-01 has no valid heading.
+06/13 11:11:50 Novel Dialogue its-dangerous-intro has no valid heading.
+06/13 11:11:50 Novel Dialogue its-dangerous-complete has no valid heading.
+06/13 11:11:50 Novel Dialogue strange-vendor-intro has no valid heading.
+06/13 11:11:50 Novel Dialogue strange-vendor-outro has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-intro has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-complete has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-complete-alt1 has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-complete-alt2 has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-complete-alt3 has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-complete-alt4 has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-complete-alt5 has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-complete-alt6 has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-complete-alt7 has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-outro has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-outro-alt1 has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-outro-alt2 has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-outro-alt3 has no valid heading.
+06/13 11:11:50 Novel Dialogue prison-break-intro has no valid heading.
+06/13 11:11:50 Novel Dialogue prison-break-complete has no valid heading.
+06/13 11:11:50 Novel Dialogue prison-break-complete-afterwards has no valid heading.
+06/13 11:11:50 Novel Dialogue temple-offering-reward1 has no valid heading.
+06/13 11:11:50 Novel Dialogue temple-offering-reward2 has no valid heading.
+06/13 11:11:50 Novel Dialogue temple-offering-reward3 has no valid heading.
+06/13 11:11:50 Novel Dialogue temple-offering-reward4 has no valid heading.
+06/13 11:11:50 Novel Dialogue temple-offering-complete-once has no valid heading.
+06/13 11:11:50 Novel Dialogue temple-offering-complete-once-alt1 has no valid heading.
+06/13 11:11:50 Novel Dialogue temple-offering-complete-once-alt2 has no valid heading.
+06/13 11:11:50 Novel Dialogue temple-offering-complete-once-alt3 has no valid heading.
+06/13 11:11:50 Novel Dialogue temple-offering-complete-once-alt4 has no valid heading.
+06/13 11:11:50 Novel Dialogue temple-offering-complete-once-alt5 has no valid heading.
+06/13 11:11:50 Novel Dialogue temple-offering-complete has no valid heading.
+06/13 11:11:50 Novel Dialogue snake-charmer-tokens-earnable has no valid heading.
+06/13 11:11:50 Novel Dialogue snake-charmer-notenough-short-01 has no valid heading.
+06/13 11:11:50 Novel Dialogue snake-charmer-tokens-available has no valid heading.
+06/13 11:11:50 Novel Dialogue snake-charmer-tokens-available-alt1 has no valid heading.
+06/13 11:11:50 Novel Dialogue snake-charmer-tokens-available-alt2 has no valid heading.
+06/13 11:11:50 Novel Dialogue snake-charmer-tokens-available-alt3 has no valid heading.
+06/13 11:11:50 Novel Dialogue snake-charmer-tokens-available-alt4 has no valid heading.
+06/13 11:11:50 Novel Dialogue snake-charmer-granted-short has no valid heading.
+06/13 11:11:50 Novel Dialogue snake-charmer-granted-short-alt1 has no valid heading.
+06/13 11:11:50 Novel Dialogue snake-charmer-granted-short-alt2 has no valid heading.
+06/13 11:11:50 Novel Dialogue snake-charmer-tokens-exhuasted has no valid heading.
+06/13 11:11:50 Novel Dialogue snake-charmer-tokens-exhuasted-alt1 has no valid heading.
+06/13 11:11:50 Novel Dialogue snake-charmer-tokens-exhuasted-alt2 has no valid heading.
+06/13 11:11:50 Novel Dialogue snake-charmer-tokens-exhuasted-alt3 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-intro has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-intro-short has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-nicecatch has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-nicecatch-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-nicecatch-alt02 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-nicecatch-alt03 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-nicecatch-alt04 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-nicecatch-alt05 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-gotaway has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-gotaway-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-gotaway-alt02 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-gotaway-alt03 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-gotaway-alt04 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-gotaway-alt05 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-early has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-early-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-late has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-late-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-goodjob has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-goodjob-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-goodjob-alt02 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-goodjob-alt03 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-goodjob-alt04 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-okayjob has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-okayjob-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-badjob has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-badjob-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-badjob-alt02 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-badjob-alt03 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-badjob-alt04 has no valid heading.
+06/13 11:11:50 Novel Dialogue candlemaker has no valid heading.
+06/13 11:11:50 Novel Dialogue candlemaker-complete has no valid heading.
+06/13 11:11:50 Novel Dialogue candlemaker-unavailable has no valid heading.
+06/13 11:11:50 Novel Dialogue candlemaker-return has no valid heading.
+06/13 11:11:50 Novel Dialogue ripples-in-the-dark has no valid heading.
+06/13 11:11:50 Novel Dialogue return-of-threebeard-intro has no valid heading.
+06/13 11:11:50 Novel Dialogue return-of-threebeard-complete has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-no-bets has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-bets-available has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-won-match has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-lost-match has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-intro-1 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-intro-2 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-intro-3 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-intro-4 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-intro-5 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-intro-6 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-intro-7 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-intro-8 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-intro-9 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-intro-10 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-mid-1 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-mid-2 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-mid-3 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-mid-4 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-mid-5 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-mid-6 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-mid-7 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-mid-8 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-mid-9 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-mid-10 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-mid-11 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-end-1 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-end-2 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-end-3 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-end-4 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-end-5 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-end-6 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-end-7 has no valid heading.
+06/13 11:11:50 Novel Dialogue pit-fighter-fight-end-8 has no valid heading.
+06/13 11:11:50 Novel Dialogue strange-vendor-intro has no valid heading.
+06/13 11:11:50 Novel Dialogue strange-vendor-outro has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-intro has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-complete has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-complete-alt1 has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-complete-alt2 has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-complete-alt3 has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-complete-alt4 has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-complete-alt5 has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-complete-alt6 has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-complete-alt7 has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-outro has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-outro-alt1 has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-outro-alt2 has no valid heading.
+06/13 11:11:50 Novel Dialogue token-trader-outro-alt3 has no valid heading.
+06/13 11:11:50 Novel Dialogue secret-admirer-gift-token-first-time has no valid heading.
+06/13 11:11:50 Novel Dialogue secret-admirer-gift-token has no valid heading.
+06/13 11:11:50 Novel Dialogue secret-admirer-gift-token-alt1 has no valid heading.
+06/13 11:11:50 Novel Dialogue secret-admirer-receive-tokens-first-time has no valid heading.
+06/13 11:11:50 Novel Dialogue secret-admirer-receive-tokens has no valid heading.
+06/13 11:11:50 Novel Dialogue secret-admirer-receive-tokens-alt1 has no valid heading.
+06/13 11:11:50 Novel Dialogue secret-admirer-gift-exhausted has no valid heading.
+06/13 11:11:50 Novel Dialogue secret-admirer-gift-sent has no valid heading.
+06/13 11:11:50 Novel Dialogue fallen-comet has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-intro has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-intro-short has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-nicecatch has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-nicecatch-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-nicecatch-alt02 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-nicecatch-alt03 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-nicecatch-alt04 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-nicecatch-alt05 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-gotaway has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-gotaway-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-gotaway-alt02 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-gotaway-alt03 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-gotaway-alt04 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-gotaway-alt05 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-early has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-early-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-late has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-late-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-goodjob has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-goodjob-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-goodjob-alt02 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-goodjob-alt03 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-goodjob-alt04 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-okayjob has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-okayjob-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-badjob has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-badjob-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-badjob-alt02 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-badjob-alt03 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-badjob-alt04 has no valid heading.
+06/13 11:11:50 Novel Dialogue fishing-unlock-sand-fishing has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-intro has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-intro-short has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-nicecatch has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-nicecatch-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-nicecatch-alt02 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-nicecatch-alt03 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-nicecatch-alt04 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-gotaway has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-gotaway-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-gotaway-alt02 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-gotaway-alt03 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-gotaway-alt04 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-gotaway-alt05 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-early has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-early-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-early-alt02 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-early-alt03 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-late has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-late-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-goodjob has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-goodjob-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-goodjob-alt02 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-goodjob-alt03 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-goodjob-alt04 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-okayjob has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-okayjob-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-badjob has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-badjob-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-badjob-alt02 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-badjob-alt03 has no valid heading.
+06/13 11:11:50 Novel Dialogue sandfishing-badjob-alt04 has no valid heading.
+06/13 11:11:50 Novel Dialogue flappy-skywrath-win has no valid heading.
+06/13 11:11:50 Novel Dialogue flappy-skywrath-win-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue flappy-skywrath-win-alt02 has no valid heading.
+06/13 11:11:50 Novel Dialogue flappy-skywrath-lose has no valid heading.
+06/13 11:11:50 Novel Dialogue flappy-skywrath-lose-alt01 has no valid heading.
+06/13 11:11:50 Novel Dialogue flappy-skywrath-lose-alt02 has no valid heading.
+06/13 11:11:50 Novel Dialogue clickable-hunt-reward1 has no valid heading.
+06/13 11:11:50 Novel Dialogue clickable-hunt-reward2 has no valid heading.
+06/13 11:11:50 Novel Dialogue clickable-hunt-reward2-claimable has no valid heading.
+06/13 11:11:50 Novel Dialogue clickable-hunt-reward3 has no valid heading.
+06/13 11:11:50 Novel Dialogue clickable-hunt-reward3-claimable has no valid heading.
+06/13 11:11:50 Novel Dialogue clickable-hunt-reward4 has no valid heading.
+06/13 11:11:50 Novel Dialogue clickable-hunt-reward4-claimable has no valid heading.
+06/13 11:11:50 Novel Dialogue clickable-hunt-reward5 has no valid heading.
+06/13 11:11:50 Novel Dialogue clickable-hunt-reward5-claimable has no valid heading.
+06/13 11:11:50 Novel Dialogue clickable-hunt-complete has no valid heading.
+06/13 11:11:50 Novel Dialogue example_conditions has no valid heading.
+06/13 11:11:50 Novel Dialogue example has no valid heading.
+06/13 11:11:51 ReadSteamRemoteStorageFile( bufOut, "scripts/lobby_settings.txt" ) -> 0.004988 seconds
+06/13 11:11:52 ILocalize::AddFile() failed to load file "resource/localization/broadcastfacts_english.txt".
+06/13 11:11:55 **** Unable to localize '#GameUI_Language_Indonesian' on panel 'indonesian'
+06/13 11:11:56 [HostStateManager] Host activate: Idle (levelload)
+06/13 11:11:56 [SplitScreen] Writing configuration for slot 0
+06/13 11:11:56 [SplitScreen] Saved 'user_keys.vcfg' to SteamRemoteStorage, 87 bytes OK
+06/13 11:11:56 [SplitScreen] Saved user config file 'cfg/user_keys_0_slot0.vcfg': type 1
+06/13 11:11:56 [SplitScreen] Saved user config file 'cfg/user_keys_0_slot0.vcfg_lastclouded': type 3
+06/13 11:11:56 [SplitScreen] Saved 'user_convars.vcfg' to SteamRemoteStorage, 9981 bytes OK
+06/13 11:11:56 [SplitScreen] Saved user config file 'cfg/user_convars_0_slot0.vcfg': type 1
+06/13 11:11:56 [SplitScreen] Saved user config file 'cfg/user_convars_0_slot0.vcfg_lastclouded': type 3
+06/13 11:11:56 [Steam] Running SteamAPI_RunCallbacks for first time
+06/13 11:11:56 [SteamNetSockets] Certificate expires in 47h52m at 1718431458 (current time 1718259116), will renew in 45h52m
+06/13 11:11:56 [SteamNetSockets] SDR network config fetch attempt #1 failed.  HTTP 504.  .  Trying again.
+06/13 11:11:56 [GCClient] Recv msg 4009 (k_EMsgGCClientConnectionStatus), 12 bytes
+06/13 11:11:56 [GCClient] In logon queue; waiting for GC to confirm connection.
+06/13 11:11:56 [GCClient] Recv msg 4004 (k_EMsgGCClientWelcome), 477 bytes
+06/13 11:11:56 [GCClient] Received client welcome from GC.
+06/13 11:11:56 [SOCache] CMsgClientWelcome subscribed: 1 up-to-date, 0 out-of-date
+06/13 11:11:56 [GCClient] Recv msg 29 (k_ESOMsg_CacheSubscribedUpToDate), 44 bytes
+06/13 11:11:56 [GCClient] Recv msg 7388 (k_EMsgDOTAGetEventPointsResponse), 1434 bytes
+06/13 11:11:56 [GCClient] Recv msg 7388 (k_EMsgDOTAGetEventPointsResponse), 85 bytes
+06/13 11:11:56 [GCClient] Recv msg 7388 (k_EMsgDOTAGetEventPointsResponse), 30 bytes
+06/13 11:11:56 [GCClient] Recv msg 7388 (k_EMsgDOTAGetEventPointsResponse), 265 bytes
+06/13 11:11:56 [GCClient] Recv msg 8747 (k_EMsgGCToClientGuildMembersDataUpdated), 34 bytes
+06/13 11:11:56 [GCClient] Recv msg 8678 (k_EMsgGCToClientGuildMembershipUpdated), 14 bytes
+06/13 11:11:56 [GCClient] Recv msg 8689 (k_EMsgGCToClientAccountGuildEventDataUpdated), 55 bytes
+06/13 11:11:56 [GCClient] Recv msg 8675 (k_EMsgGCToClientGuildDataUpdated), 1476 bytes
+06/13 11:11:56 Finished requesting news data
+06/13 11:11:56 [Client] CL:  CLoopModeLevelLoad::MaybeSwitchToGameLoop switching to "game" loopmode with addons ()
+06/13 11:11:56 [EngineServiceManager] SwitchToLoop game requested:  id [1] addons []
+06/13 11:11:56 [GCClient] Send msg 7197 (k_EMsgGCMatchmakingStatsRequest), 8 bytes
+06/13 11:11:57 Job CWorkshopController::StartQueryingUGCItemLists has spent >3.000ms without yielding: 4.254ms
+06/13 11:11:57 ReadSteamRemoteStorageFile( bufOut, "cfg/chat.cfg" ) -> 0.004294 seconds
+06/13 11:12:00 [Server] CNetworkGameServerBase::SetServerState (ss_dead -> ss_waitingforgamesessionmanifest)
+06/13 11:12:00 [Server] SV:  maxplayers set to 1
+06/13 11:12:00 Initializing script VM...
+06/13 11:12:00 ...done
+06/13 11:12:00 CPlayerVoiceListener::GameInit()
+06/13 11:12:00 [GCClient] Recv msg 7198 (k_EMsgGCMatchmakingStatsResponse), 325 bytes
+06/13 11:12:00 [SteamNetSockets] Got SDR network config.  Loaded revision 1718034194 OK
+06/13 11:12:00 [SteamNetSockets] Performing ping measurement
+06/13 11:12:00 [SteamNetSockets] SDR RelayNetworkStatus:  avail=Attempting  config=OK  anyrelay=Attempting   (Performing ping measurement)
+06/13 11:12:00 [SteamNetSockets] AuthStatus (steamid:76561198852778905):  OK  (OK)
+06/13 11:12:00 [SteamNetSockets] Waited 56.3ms for SteamNetworkingSockets lock [ReceiveMessagesOnChannel]
+06/13 11:12:00 **** Panel TimeRangeSlider has fill-parent-flow for width, but isn't in a flowing right layout
+06/13 11:12:00 **** Panel TimeScrubSlider has fill-parent-flow for width, but isn't in a flowing right layout
+06/13 11:12:00 **** Panel SliderAndMarkers has fill-parent-flow for width, but isn't in a flowing right layout
+06/13 11:12:00 **** Panel TimeScrubSlider has fill-parent-flow for width, but isn't in a flowing right layout
+06/13 11:12:00 [GCClient] Send msg 8879 (k_EMsgClientToGCRankRequest), 19 bytes
+06/13 11:12:00 [GCClient] Send msg 7387 (k_EMsgDOTAGetEventPoints), 25 bytes
+06/13 11:12:01 GC reported matchgroups version 107
+06/13 11:12:01 [WeekendTourney] Received weekend tourney schedule.
+06/13 11:12:01 [GCClient] Send msg 2536 (k_EMsgGCRequestStoreSalesData), 12 bytes
+06/13 11:12:01 [GCClient] Send msg 2617 (k_EMsgClientToGCCancelUnfinalizedTransactions), 8 bytes
+06/13 11:12:01 WriteSteamRemoteStorageFileAsync( "cfg/last_match.dat" ) -> at 109.416
+06/13 11:12:01 Failed to load inventory scratchpad information file "cfg/dota_player_scratchpad.txt"!
+06/13 11:12:01 CAsyncWriteInProgress::OnComplete( "cfg/last_match.dat" ) -> Success at 109.459
+06/13 11:12:01 [GCClient] Recv msg 8880 (k_EMsgGCToClientRankResponse), 29 bytes
+06/13 11:12:01 [GCClient] Recv msg 7388 (k_EMsgDOTAGetEventPointsResponse), 272 bytes
+06/13 11:12:01 [SteamNetSockets] Waited 5.5ms for SteamNetworkingSockets lock [ReceiveMessagesOnChannel]
+06/13 11:12:01 [GCClient] Send msg 8793 (k_EMsgClientToGCGetCurrentPrivateCoachingSession), 17 bytes
+06/13 11:12:02 [GCClient] Recv msg 2618 (k_EMsgClientToGCCancelUnfinalizedTransactionsResponse), 19 bytes
+06/13 11:12:02 [GCClient] Send msg 7387 (k_EMsgDOTAGetEventPoints), 25 bytes
+06/13 11:12:02 [GCClient] Send msg 7427 (k_EMsgGCNotificationsRequest), 17 bytes
+06/13 11:12:02 [GCClient] Recv msg 8794 (k_EMsgClientToGCGetCurrentPrivateCoachingSessionResponse), 19 bytes
+06/13 11:12:02 [GCClient] Recv msg 2538 (k_EMsgGCRequestStoreSalesDataUpToDateResponse), 16 bytes
+06/13 11:12:02 Job ShowIntroMovie has spent >3.000ms without yielding: 7.010ms
+06/13 11:12:02 [GCClient] Send msg 7534 (k_EMsgClientToGCGetProfileCard), 23 bytes
+06/13 11:12:02 [GCClient] Send msg 8078 (k_EMsgClientToGCGetQuestProgress), 17 bytes
+06/13 11:12:02 [GCClient] Send msg 8879 (k_EMsgClientToGCRankRequest), 19 bytes
+06/13 11:12:02 [GCClient] Send msg 8944 (k_EMsgClientToGCOverworldGetUserData), 19 bytes
+06/13 11:12:02 [GCClient] Send msg 8944 (k_EMsgClientToGCOverworldGetUserData), 19 bytes
+06/13 11:12:02 Job InitBotScripts has spent >3.000ms without yielding: 3.448ms
+06/13 11:12:02 [GCClient] Send msg 7503 (k_EMsgClientToGCEmoticonDataRequest), 17 bytes
+06/13 11:12:02 [SteamNetSockets] SteamNetworkingSockets lock held for 8.4ms.  (Performance warning.)  EnsureDataCenterRoutesValid
+This is usually a symptom of a general performance problem such as thread starvation.
+06/13 11:12:02 [SteamNetSockets] Waited 6.0ms for SteamNetworkingSockets lock [ServiceThread]
+06/13 11:12:02 [GCClient] Send msg 8687 (k_EMsgClientToGCRequestAccountGuildEventData), 23 bytes
+06/13 11:12:02 [GCClient] Send msg 8673 (k_EMsgClientToGCRequestGuildData), 21 bytes
+06/13 11:12:02 [GCClient] Send msg 8713 (k_EMsgClientToGCRequestActiveGuildChallenge), 23 bytes
+06/13 11:12:02 [GCClient] Send msg 8886 (k_EMsgClientToGCShowcaseGetUserData), 25 bytes
+06/13 11:12:02 [GCClient] Send msg 8800 (k_EMsgClientToGCGetAvailablePrivateCoachingSessionsSummary), 17 bytes
+06/13 11:12:02 [GCClient] Send msg 8137 (k_EMsgClientToGCMyTeamInfoRequest), 17 bytes
+06/13 11:12:02 [SteamNetSockets] Waited 2.1ms for SteamNetworkingSockets lock
+06/13 11:12:03 [GCClient] Recv msg 7388 (k_EMsgDOTAGetEventPointsResponse), 1441 bytes
+06/13 11:12:03 [GCClient] Recv msg 7428 (k_EMsgGCNotificationsResponse), 21 bytes
+06/13 11:12:03 [GCClient] Send msg 8853 (k_EMsgClientToGCGetHeroStickers), 17 bytes
+06/13 11:12:03 Job ShowIntroMovie has spent >3.000ms without yielding: 49.969ms
+06/13 11:12:03 [GCClient] Recv msg 8880 (k_EMsgGCToClientRankResponse), 33 bytes
+06/13 11:12:03 [GCClient] Recv msg 7504 (k_EMsgGCToClientEmoticonData), 73 bytes
+06/13 11:12:03 [GCClient] Recv msg 8079 (k_EMsgClientToGCGetQuestProgressResponse), 19 bytes
+06/13 11:12:03 [GCClient] Recv msg 8945 (k_EMsgClientToGCOverworldGetUserDataResponse), 1853 bytes
+06/13 11:12:03 [GCClient] Recv msg 8945 (k_EMsgClientToGCOverworldGetUserDataResponse), 1614 bytes
+06/13 11:12:03 [GCClient] Recv msg 7535 (k_EMsgClientToGCGetProfileCardResponse), 46 bytes
+06/13 11:12:03 [GCClient] Recv msg 8801 (k_EMsgClientToGCGetAvailablePrivateCoachingSessionsSummaryResponse), 23 bytes
+06/13 11:12:03 [GCClient] Recv msg 8688 (k_EMsgClientToGCRequestAccountGuildEventDataResponse), 59 bytes
+06/13 11:12:03 [GCClient] Recv msg 8674 (k_EMsgClientToGCRequestGuildDataResponse), 1485 bytes
+06/13 11:12:03 [GCClient] Recv msg 8714 (k_EMsgClientToGCRequestActiveGuildChallengeResponse), 39 bytes
+06/13 11:12:03 [GCClient] Recv msg 8887 (k_EMsgClientToGCShowcaseGetUserDataResponse), 200 bytes
+06/13 11:12:03 [GCClient] Recv msg 8136 (k_EMsgGCToClientTeamsInfo), 17 bytes
+06/13 11:12:03 [GCClient] Send msg 8034 (k_EMsgClientToGCGetProfileCardStats), 17 bytes
+06/13 11:12:03 [GCClient] Recv msg 8854 (k_EMsgClientToGCGetHeroStickersResponse), 21 bytes
+06/13 11:12:04 [GCClient] Recv msg 8035 (k_EMsgClientToGCGetProfileCardStatsResponse), 71 bytes
+06/13 11:12:05 [SteamNetSockets] Waited 3.5ms for SteamNetworkingSockets lock
+06/13 11:12:09 [SteamNetSockets] Ping measurement completed in 8.1s.  Relays: 26 valid, 0 great, 1 good+, 2 ok+, 14 ignored
+06/13 11:12:09 [SteamNetSockets] Ping location: dxb=61+6,bom2=178+17/88+6,maa2=153+15/106+6,sgp=126+12/127+12,hkg=154+15,mad=160+16,fra=167+16,mst1=167+16,ams=175+17/174+16,lhr=174+17,iad=/253+16,gru=367+36
+06/13 11:12:09 [SteamNetSockets] SDR RelayNetworkStatus:  avail=OK  config=OK  anyrelay=OK   (OK.  Relays: 26 valid, 0 great, 1 good+, 2 ok+, 14 ignored)
+06/13 11:12:09 [WeekendTourney] Auto selecting weekend tourney division 'se_asia' based on ping to best region of 127ms
+06/13 11:12:09 [WeekendTourney] Selected division changed to 'se_asia'
+06/13 11:12:09 [GCClient] Send msg 8673 (k_EMsgClientToGCRequestGuildData), 19 bytes
+06/13 11:12:09 [SteamNetSockets] Waited 3.4ms for SteamNetworkingSockets lock [ReceiveMessagesOnChannel]
+06/13 11:12:09 [GCClient] Recv msg 8674 (k_EMsgClientToGCRequestGuildDataResponse), 19 bytes
+06/13 11:12:14 [ResourceSystem] Failed loading resource "panorama/images/spellicons/dota_base_ability_png.vtex_c" (ERROR_FILEOPEN: File not found)
+06/13 11:12:20 [GCClient] Send msg 2612 (k_EMsgClientToGCGetInFlightItemCharges), 21 bytes
+06/13 11:12:20 [ResourceSystem] Failed loading resource "panorama/images/players/0_png.vtex_c" (ERROR_FILEOPEN: File not found)
+06/13 11:12:21 [GCClient] Recv msg 2613 (k_EMsgClientToGCGetInFlightItemChargesResponse), 21 bytes
+06/13 11:12:22 [Server] SV:  Spawn Server: <empty>
+06/13 11:12:24 [Server] CNetworkGameServerBase::SetServerState (ss_waitingforgamesessionmanifest -> ss_loading)
+06/13 11:12:24 **** Panel BotScriptDedicatedChoices has fill-parent-flow for width, but isn't in a flowing right layout
+06/13 11:12:25 [Server] CNetworkGameServerBase::SetServerState (ss_loading -> ss_active)
+06/13 11:12:25 [Client] CL:  CWaitForGameServerStartupPrerequisite done waiting for server
+06/13 11:12:25 [Client] CL:  CCreateGameClientJob creating client connection to 'loopback'
+06/13 11:12:25 [SteamNetSockets] [#187683610 pipe] connected
+06/13 11:12:25 [SteamNetSockets] [#2776741134 pipe] connected
+06/13 11:12:25 [SteamNetSockets] SteamNetworkingSockets lock held for 15.8ms.  (Performance warning.)  CreateSocketPair,Base::BInitConnection(x2),FinalizeLocalCrypto(x2),BRecvCryptoHandshake(x2),BFinishCryptoHandshake(x4)
+This is usually a symptom of a general performance problem such as thread starvation.
+06/13 11:12:25 [SteamNetSockets] Waited 4.9ms for SteamNetworkingSockets lock [ServiceThread]
+06/13 11:12:25 [Networking] Created poll group for socket 'client'
+06/13 11:12:25 [Networking] Created poll group for socket 'server'
+06/13 11:12:25 [Networking] Connected loopback client=b2fd31a@loopback:1 <-> server=a581b50e@loopback:0
+06/13 11:12:25 [NetSteamConn] Associating NetChan Immortal Bab @ loopback:0 (loopback:0) with Steam Net Connection handle #2776741134 (userdata 0)
+06/13 11:12:25 [NetSteamConn] Associating NetChan server @ loopback:1 (loopback:1) with Steam Net Connection handle #187683610 (userdata 1)
+06/13 11:12:25 [Client] CL:  Connected to 'loopback:1'
+06/13 11:12:25 [Server] Client 0 'Immortal Baby Im  Coming' setting rate to 80000
+06/13 11:12:25 [Client] Game: "Dota 2"
+06/13 11:12:25 [Client] Map: "<empty>"
+06/13 11:12:25 [Client] Players: 1 (0 bots) / 1 humans
+06/13 11:12:25 [Client] Build: 10088 (revision 8969767)
+06/13 11:12:25 [Client] Server Number: 1
+06/13 11:12:25 [SignonState] CL:  CNetworkGameClient::ProcessServerInfo
+06/13 11:12:25 ReadSteamRemoteStorageFile( bufOut, "voice_ban.dt" ) -> 0.003802 seconds
+06/13 11:12:25 LoadResponseSystem scripts/talker/response_rules.vrr - Start
+06/13 11:12:29 CResponseSystem:  scripts/talker/response_rules.vrr (31067 rules, 2898 criteria, and 31067 responses)
+06/13 11:12:29 LoadResponseSystem scripts/talker/response_rules.vrr - Finish
+06/13 11:12:29 [Client] CNetworkGameClient::ProcessClassInfo: create on client true
+06/13 11:12:29 [Client] CNetworkGameClient::ProcessClassInfo: creating client serializers from local server serializers (crc 0, server api exists)
+06/13 11:12:29 [Client] CL:  loaded 33 replay compatability settings from 'vpk:F:/SteamLibrary/steamapps/common/dota 2 beta/game/core/pak01.vpk:./scripts/replay_compatability_settings.txt'
+06/13 11:12:29 [Client] CL:  loaded 23 replay compatability settings from 'vpk:F:/SteamLibrary/steamapps/common/dota 2 beta/game/dota/pak01.vpk:./scripts/replay_compatability_settings.txt'
+06/13 11:12:31 [Client] Client missing networkable entity class CLightGlow
+06/13 11:12:31 [Client] Client missing networkable entity class CMoverPathNode
+06/13 11:12:31 [Client] Client missing networkable entity class CPathMover
+06/13 11:12:31 [Client] Client missing networkable entity class CPhysMagnet
+06/13 11:12:31 [Client] Client missing networkable entity class CSpotlightEnd
+06/13 11:12:31 [Client] CNetworkGameClientBase::LinkClasses took 1942.153 msec
+06/13 11:12:42 [SteamNetSockets] Waited 2.8ms for SteamNetworkingSockets lock [ServiceThread]
+06/13 11:12:57 [GCClient] Send msg 7197 (k_EMsgGCMatchmakingStatsRequest), 8 bytes
+06/13 11:12:57 [GCClient] Recv msg 7198 (k_EMsgGCMatchmakingStatsResponse), 325 bytes
+06/13 11:13:16 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:13:18 [Client] CL:  CGameClientConnectPrerequisite connection succeeded
+06/13 11:13:18 ChangeGameUIState: DOTA_GAME_UI_STATE_LOADING_SCREEN -> DOTA_GAME_UI_STATE_DASHBOARD
+06/13 11:13:18 [Server] SV:  IGameSystem::LoopActivateAllSystems {
+06/13 11:13:18 [Host] HO:  IGameSystem::LoopActivateAllSystems {
+06/13 11:13:18 [Host] HO:  } IGameSystem::LoopActivateAllSystems done
+06/13 11:13:18 [Server] SV:  } IGameSystem::LoopActivateAllSystems done
+06/13 11:13:18 [Server] SV:  Game started
+06/13 11:13:18 [Client] CL:  IGameSystem::LoopActivateAllSystems {
+06/13 11:13:18 ReadSteamRemoteStorageFile( bufOut, "scripts/control_groups.txt" ) -> 0.004610 seconds
+06/13 11:13:18 [Client] CL:  } IGameSystem::LoopActivateAllSystems done
+06/13 11:13:18 [SignonState] CL:  CNetworkGameClient::OnSwitchLoopModeFinished( game : success )
+06/13 11:13:18 [GCClient] Send msg 7033 (k_EMsgGCStartFindingMatch), 290 bytes
+06/13 11:13:18 [Server] SV:  Sending full update to client Immortal Baby Im  Coming (reason:  initial update)
+06/13 11:13:18 [Client] Receiving 0.0K non-incremental update from server
+06/13 11:13:18 [Networking] server @ loopback:1:  NetChan Setting Timeout to 30.00 seconds
+06/13 11:13:18 [Client] CL:  Signon traffic "server":  incoming 46.981 KB [907 pkts], outgoing 5.015 KB [908 pkts]
+06/13 11:13:19 [GCClient] Recv msg 7681 (k_EMsgGCToClientRequestMMInfo), 8 bytes
+06/13 11:13:19 [Networking] Immortal Bab @ loopback:0:  NetChan Setting Timeout to 20.00 seconds
+06/13 11:13:19 [GCClient] Send msg 7682 (k_EMsgClientToGCMMInfo), 12 bytes
+06/13 11:13:19 [GCClient] Send msg 8729 (k_EMsgClientToGCRequestAccountGuildPersonaInfoBatch), 64 bytes
+06/13 11:13:19 [GCClient] Recv msg 24 (k_ESOMsg_CacheSubscribed), 173 bytes
+06/13 11:13:19 [GCClient] Recv msg 8055 (k_EMsgGCStartFindingMatchResponse), 21 bytes
+06/13 11:13:19 [SOCache] CGCSOCacheSubscribedJob(owner=<Party:28827340558716831>) [in cache]
+06/13 11:13:20 [GCClient] Recv msg 8730 (k_EMsgClientToGCRequestAccountGuildPersonaInfoBatchResponse), 123 bytes
+06/13 11:13:21 CSwapChainBase::QueuePresentAndWait() looped for 21 iterations without a present event.
+06/13 11:13:21 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:13:22 CSwapChainBase::QueuePresentAndWait() looped for 21 iterations without a present event.
+06/13 11:13:25 [InputSystem] Processing SDL events took 8.4ms
+06/13 11:13:28 Excessive frame time of 126.34ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:28 
+06/13 11:13:29 Excessive frame time of 105.96ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:29 
+06/13 11:13:30 CSwapChainBase::QueuePresentAndWait() looped for 21 iterations without a present event.
+06/13 11:13:30 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:13:30 Excessive frame time of 266.86ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:30 
+06/13 11:13:30 CSwapChainBase::QueuePresentAndWait() looped for 21 iterations without a present event.
+06/13 11:13:30 Excessive frame time of 242.72ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:30 
+06/13 11:13:30 Excessive frame time of 245.97ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:30 
+06/13 11:13:31 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:13:31 Excessive frame time of 253.26ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:31 
+06/13 11:13:31 CSwapChainBase::QueuePresentAndWait() looped for 21 iterations without a present event.
+06/13 11:13:31 Excessive frame time of 269.28ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:31 
+06/13 11:13:31 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:13:31 Excessive frame time of 263.26ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:31 
+06/13 11:13:31 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:13:31 CSwapChainBase::QueuePresentAndWait() looped for 23 iterations without a present event.
+06/13 11:13:31 Excessive frame time of 271.41ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:31 
+06/13 11:13:32 CSwapChainBase::QueuePresentAndWait() looped for 23 iterations without a present event.
+06/13 11:13:32 Excessive frame time of 271.75ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:32 
+06/13 11:13:32 CSwapChainBase::QueuePresentAndWait() looped for 24 iterations without a present event.
+06/13 11:13:32 Excessive frame time of 279.46ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:32 
+06/13 11:13:32 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:13:32 CSwapChainBase::QueuePresentAndWait() looped for 25 iterations without a present event.
+06/13 11:13:32 Excessive frame time of 335.55ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:32 
+06/13 11:13:33 CSwapChainBase::QueuePresentAndWait() looped for 25 iterations without a present event.
+06/13 11:13:33 Excessive frame time of 275.54ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:33 
+06/13 11:13:33 CSwapChainBase::QueuePresentAndWait() looped for 26 iterations without a present event.
+06/13 11:13:33 Excessive frame time of 286.63ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:33 
+06/13 11:13:33 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:13:33 CSwapChainBase::QueuePresentAndWait() looped for 27 iterations without a present event.
+06/13 11:13:33 Excessive frame time of 291.61ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:33 
+06/13 11:13:33 CSwapChainBase::QueuePresentAndWait() looped for 27 iterations without a present event.
+06/13 11:13:33 Excessive frame time of 328.04ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:33 
+06/13 11:13:34 Excessive frame time of 174.15ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:34 
+06/13 11:13:36 Excessive frame time of 107.34ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:36 
+06/13 11:13:43 CSwapChainBase::QueuePresentAndWait() looped for 21 iterations without a present event.
+06/13 11:13:43 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:13:43 Excessive frame time of 262.88ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:43 
+06/13 11:13:43 CSwapChainBase::QueuePresentAndWait() looped for 21 iterations without a present event.
+06/13 11:13:43 Excessive frame time of 240.75ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:43 
+06/13 11:13:43 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:13:43 Excessive frame time of 272.31ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:43 
+06/13 11:13:44 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:13:44 CSwapChainBase::QueuePresentAndWait() looped for 23 iterations without a present event.
+06/13 11:13:44 Excessive frame time of 261.31ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:44 
+06/13 11:13:44 CSwapChainBase::QueuePresentAndWait() looped for 23 iterations without a present event.
+06/13 11:13:44 Excessive frame time of 263.32ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:44 
+06/13 11:13:44 CSwapChainBase::QueuePresentAndWait() looped for 24 iterations without a present event.
+06/13 11:13:44 Excessive frame time of 271.43ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:44 
+06/13 11:13:46 Excessive frame time of 754.70ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:46 
+06/13 11:13:48 [AnimResource]  models/items/skywrath_mage/skywrath_arcana/skywrath_arcana_pedestal.vmdl : Animations loaded but no animation data found
+06/13 11:13:49 Excessive frame time of 1647.14ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:49 
+06/13 11:13:53 [GCClient] Recv msg 3001 (k_EMsgGCPingRequest), 8 bytes
+06/13 11:13:53 [GCClient] Send msg 3002 (k_EMsgGCPingResponse), 8 bytes
+06/13 11:13:53 Excessive frame time of 3290.06ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:53 
+06/13 11:13:54 CSwapChainBase::QueuePresentAndWait() looped for 21 iterations without a present event.
+06/13 11:13:54 Excessive frame time of 251.43ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:54 
+06/13 11:13:54 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:13:54 CSwapChainBase::QueuePresentAndWait() looped for 21 iterations without a present event.
+06/13 11:13:54 Excessive frame time of 220.44ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:54 
+06/13 11:13:54 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:13:54 Excessive frame time of 244.78ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:54 
+06/13 11:13:54 CSwapChainBase::QueuePresentAndWait() looped for 23 iterations without a present event.
+06/13 11:13:54 Excessive frame time of 249.56ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:54 
+06/13 11:13:54 CSwapChainBase::QueuePresentAndWait() looped for 24 iterations without a present event.
+06/13 11:13:54 Excessive frame time of 258.58ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:54 
+06/13 11:13:55 CSwapChainBase::QueuePresentAndWait() looped for 25 iterations without a present event.
+06/13 11:13:55 Excessive frame time of 269.11ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:55 
+06/13 11:13:55 Excessive frame time of 118.46ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:13:55 
+06/13 11:13:58 [GCClient] Send msg 7197 (k_EMsgGCMatchmakingStatsRequest), 8 bytes
+06/13 11:13:59 [GCClient] Recv msg 7198 (k_EMsgGCMatchmakingStatsResponse), 325 bytes
+06/13 11:14:06 CSwapChainBase::QueuePresentAndWait() looped for 21 iterations without a present event.
+06/13 11:14:06 Excessive frame time of 240.90ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:06 
+06/13 11:14:06 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:14:06 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:14:06 Excessive frame time of 234.28ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:06 
+06/13 11:14:06 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:14:06 Excessive frame time of 237.52ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:06 
+06/13 11:14:06 CSwapChainBase::QueuePresentAndWait() looped for 23 iterations without a present event.
+06/13 11:14:06 Excessive frame time of 247.25ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:06 
+06/13 11:14:06 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:14:06 CSwapChainBase::QueuePresentAndWait() looped for 24 iterations without a present event.
+06/13 11:14:06 Excessive frame time of 251.93ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:06 
+06/13 11:14:07 CSwapChainBase::QueuePresentAndWait() looped for 24 iterations without a present event.
+06/13 11:14:07 Excessive frame time of 255.31ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:07 
+06/13 11:14:07 Excessive frame time of 157.02ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:07 
+06/13 11:14:09 CSwapChainBase::QueuePresentAndWait() looped for 21 iterations without a present event.
+06/13 11:14:09 Excessive frame time of 239.44ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:09 
+06/13 11:14:10 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:14:10 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:14:10 Excessive frame time of 233.57ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:10 
+06/13 11:14:10 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:14:10 Excessive frame time of 235.76ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:10 
+06/13 11:14:10 CSwapChainBase::QueuePresentAndWait() looped for 23 iterations without a present event.
+06/13 11:14:10 Excessive frame time of 246.49ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:10 
+06/13 11:14:10 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:14:10 CSwapChainBase::QueuePresentAndWait() looped for 24 iterations without a present event.
+06/13 11:14:10 Excessive frame time of 252.80ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:10 
+06/13 11:14:11 CSwapChainBase::QueuePresentAndWait() looped for 24 iterations without a present event.
+06/13 11:14:11 Excessive frame time of 257.74ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:11 
+06/13 11:14:11 CSwapChainBase::QueuePresentAndWait() looped for 25 iterations without a present event.
+06/13 11:14:11 Excessive frame time of 269.88ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:11 
+06/13 11:14:11 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:14:11 CSwapChainBase::QueuePresentAndWait() looped for 26 iterations without a present event.
+06/13 11:14:11 Excessive frame time of 276.00ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:11 
+06/13 11:14:12 CSwapChainBase::QueuePresentAndWait() looped for 26 iterations without a present event.
+06/13 11:14:12 Excessive frame time of 277.23ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:12 
+06/13 11:14:12 Excessive frame time of 119.96ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:12 
+06/13 11:14:17 CSwapChainBase::QueuePresentAndWait() looped for 21 iterations without a present event.
+06/13 11:14:17 Excessive frame time of 236.61ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:17 
+06/13 11:14:17 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:14:18 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:14:18 Excessive frame time of 235.52ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:18 
+06/13 11:14:18 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:14:18 Excessive frame time of 238.46ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:18 
+06/13 11:14:18 CSwapChainBase::QueuePresentAndWait() looped for 23 iterations without a present event.
+06/13 11:14:18 Excessive frame time of 244.45ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:18 
+06/13 11:14:18 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:14:18 CSwapChainBase::QueuePresentAndWait() looped for 24 iterations without a present event.
+06/13 11:14:18 Excessive frame time of 249.72ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:18 
+06/13 11:14:19 CSwapChainBase::QueuePresentAndWait() looped for 24 iterations without a present event.
+06/13 11:14:19 Excessive frame time of 261.12ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:19 
+06/13 11:14:19 CSwapChainBase::QueuePresentAndWait() looped for 25 iterations without a present event.
+06/13 11:14:19 Excessive frame time of 270.90ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:19 
+06/13 11:14:19 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:14:19 CSwapChainBase::QueuePresentAndWait() looped for 26 iterations without a present event.
+06/13 11:14:19 Excessive frame time of 272.81ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:19 
+06/13 11:14:19 CSwapChainBase::QueuePresentAndWait() looped for 26 iterations without a present event.
+06/13 11:14:19 Excessive frame time of 275.06ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:19 
+06/13 11:14:19 Excessive frame time of 129.60ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:19 
+06/13 11:14:25 CSwapChainBase::QueuePresentAndWait() looped for 21 iterations without a present event.
+06/13 11:14:25 Excessive frame time of 235.35ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:25 
+06/13 11:14:25 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:14:26 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:14:26 Excessive frame time of 229.23ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:26 
+06/13 11:14:26 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:14:26 Excessive frame time of 237.20ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:26 
+06/13 11:14:26 CSwapChainBase::QueuePresentAndWait() looped for 23 iterations without a present event.
+06/13 11:14:26 Excessive frame time of 236.13ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:26 
+06/13 11:14:26 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:14:26 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:14:26 Excessive frame time of 231.62ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:26 
+06/13 11:14:26 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:14:26 Excessive frame time of 232.55ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:26 
+06/13 11:14:27 CSwapChainBase::QueuePresentAndWait() looped for 23 iterations without a present event.
+06/13 11:14:27 Excessive frame time of 244.94ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:27 
+06/13 11:14:27 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:14:27 CSwapChainBase::QueuePresentAndWait() looped for 24 iterations without a present event.
+06/13 11:14:27 Excessive frame time of 250.87ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:27 
+06/13 11:14:27 CSwapChainBase::QueuePresentAndWait() looped for 24 iterations without a present event.
+06/13 11:14:27 Excessive frame time of 249.87ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:27 
+06/13 11:14:27 CSwapChainBase::QueuePresentAndWait() looped for 25 iterations without a present event.
+06/13 11:14:27 Excessive frame time of 263.94ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:27 
+06/13 11:14:31 [GCClient] Recv msg 3001 (k_EMsgGCPingRequest), 8 bytes
+06/13 11:14:31 [GCClient] Send msg 3002 (k_EMsgGCPingResponse), 8 bytes
+06/13 11:14:33 CSwapChainBase::QueuePresentAndWait() looped for 21 iterations without a present event.
+06/13 11:14:33 Excessive frame time of 231.69ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:33 
+06/13 11:14:33 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:14:33 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:14:33 Excessive frame time of 228.05ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:33 
+06/13 11:14:34 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:14:34 Excessive frame time of 234.68ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:34 
+06/13 11:14:34 CSwapChainBase::QueuePresentAndWait() looped for 23 iterations without a present event.
+06/13 11:14:34 Excessive frame time of 233.60ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:34 
+06/13 11:14:34 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:14:34 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:14:34 Excessive frame time of 230.52ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:34 
+06/13 11:14:34 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:14:34 Excessive frame time of 237.14ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:34 
+06/13 11:14:35 CSwapChainBase::QueuePresentAndWait() looped for 23 iterations without a present event.
+06/13 11:14:35 Excessive frame time of 245.86ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:35 
+06/13 11:14:35 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:14:35 CSwapChainBase::QueuePresentAndWait() looped for 24 iterations without a present event.
+06/13 11:14:35 Excessive frame time of 246.67ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:35 
+06/13 11:14:35 CSwapChainBase::QueuePresentAndWait() looped for 24 iterations without a present event.
+06/13 11:14:35 Excessive frame time of 254.86ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:35 
+06/13 11:14:35 CSwapChainBase::QueuePresentAndWait() looped for 25 iterations without a present event.
+06/13 11:14:35 Excessive frame time of 265.67ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:35 
+06/13 11:14:36 CSwapChainBase::QueuePresentAndWait() looped for 26 iterations without a present event.
+06/13 11:14:36 Excessive frame time of 283.13ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:36 
+06/13 11:14:36 CSwapChainBase::QueuePresentAndWait() looped for 27 iterations without a present event.
+06/13 11:14:36 Excessive frame time of 288.38ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:36 
+06/13 11:14:36 CSwapChainBase::QueuePresentAndWait() looped for 28 iterations without a present event.
+06/13 11:14:36 Excessive frame time of 277.78ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:36 
+06/13 11:14:41 CSwapChainBase::QueuePresentAndWait() looped for 21 iterations without a present event.
+06/13 11:14:41 Excessive frame time of 235.78ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:41 
+06/13 11:14:41 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:14:41 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:14:41 Excessive frame time of 231.28ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:41 
+06/13 11:14:41 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:14:41 Excessive frame time of 244.43ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:41 
+06/13 11:14:42 CSwapChainBase::QueuePresentAndWait() looped for 23 iterations without a present event.
+06/13 11:14:42 Excessive frame time of 247.48ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:42 
+06/13 11:14:42 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:14:42 CSwapChainBase::QueuePresentAndWait() looped for 24 iterations without a present event.
+06/13 11:14:42 Excessive frame time of 247.40ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:42 
+06/13 11:14:42 CSwapChainBase::QueuePresentAndWait() looped for 24 iterations without a present event.
+06/13 11:14:42 Excessive frame time of 259.38ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:42 
+06/13 11:14:42 Excessive frame time of 151.51ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:42 
+06/13 11:14:46 CSwapChainBase::QueuePresentAndWait() looped for 21 iterations without a present event.
+06/13 11:14:46 Excessive frame time of 245.10ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:46 
+06/13 11:14:46 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:14:46 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:14:46 Excessive frame time of 229.40ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:46 
+06/13 11:14:46 CSwapChainBase::QueuePresentAndWait() looped for 22 iterations without a present event.
+06/13 11:14:46 Excessive frame time of 240.64ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:46 
+06/13 11:14:46 [GCClient] Recv msg 26 (k_ESOMsg_UpdateMultiple), 173 bytes
+06/13 11:14:46 [GCClient] Recv msg 24 (k_ESOMsg_CacheSubscribed), 15015 bytes
+06/13 11:14:46 Excessive frame time of 120.39ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:46 
+06/13 11:14:46 [SOCache] CGCSOCacheSubscribedJob(owner=<Lobby:28827340560360532>) [in cache]
+06/13 11:14:46 Excessive frame time of 104.64ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:46 
+06/13 11:14:46 [GCClient] Recv msg 3001 (k_EMsgGCPingRequest), 8 bytes
+06/13 11:14:46 [GCClient] Recv msg 26 (k_ESOMsg_UpdateMultiple), 15036 bytes
+06/13 11:14:46 [GCClient] Send msg 3002 (k_EMsgGCPingResponse), 8 bytes
+06/13 11:14:47 [GCClient] Recv msg 26 (k_ESOMsg_UpdateMultiple), 15064 bytes
+06/13 11:14:48 Excessive frame time of 172.89ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:48 
+06/13 11:14:48 Excessive frame time of 179.12ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:48 
+06/13 11:14:48 Excessive frame time of 101.10ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:48 
+06/13 11:14:49 [GCClient] Recv msg 7170 (k_EMsgGCReadyUpStatus), 21 bytes
+06/13 11:14:49 [GCClient] Recv msg 7170 (k_EMsgGCReadyUpStatus), 23 bytes
+06/13 11:14:49 [GCClient] Recv msg 7170 (k_EMsgGCReadyUpStatus), 25 bytes
+06/13 11:14:49 [GCClient] Recv msg 7170 (k_EMsgGCReadyUpStatus), 27 bytes
+06/13 11:14:49 [GCClient] Recv msg 7170 (k_EMsgGCReadyUpStatus), 29 bytes
+06/13 11:14:50 [GCClient] Recv msg 7170 (k_EMsgGCReadyUpStatus), 31 bytes
+06/13 11:14:50 [GCClient] Recv msg 7170 (k_EMsgGCReadyUpStatus), 33 bytes
+06/13 11:14:50 [GCClient] Send msg 7070 (k_EMsgGCReadyUp), 44 bytes
+06/13 11:14:51 [GCClient] Recv msg 7170 (k_EMsgGCReadyUpStatus), 35 bytes
+06/13 11:14:51 [GCClient] Recv msg 7170 (k_EMsgGCReadyUpStatus), 37 bytes
+06/13 11:14:51 [GCClient] Recv msg 7170 (k_EMsgGCReadyUpStatus), 39 bytes
+06/13 11:14:51 [GCClient] Recv msg 7581 (k_EMsgGCToClientSteamDatagramTicket), 294 bytes
+06/13 11:14:51 [GCClient] Recv msg 26 (k_ESOMsg_UpdateMultiple), 15041 bytes
+06/13 11:14:51 [SteamNetSockets] Received Steam datagram ticket for server steamid:90199094597601296 vport 0. match_id=7793200826 mm=1 flg=rsmanual,rspoorchoice
+06/13 11:14:51 WriteSteamRemoteStorageFileAsync( "scripts/dota_local_disk_lobby_data.txt" ) -> at 279.700
+06/13 11:14:51 Telling Steam not to update the app for the next 900 seconds
+06/13 11:14:51 LOBBY STATE RUN: lobby 28827340560360532: Player AccountID 892513177 connecting to MatchID 7793200826 at ServerID [A:1:1083000848:29593] =[A:1:1083000848:29593]
+06/13 11:14:51 [Networking] Steam datagram ticket found to connect to '=[A:1:1083000848:29593]'
+06/13 11:14:51 [HostStateManager] CHostStateMgr::QueueNewRequest( Remote Connect (=[A:1:1083000848:29593]), 2 )
+06/13 11:14:51 WriteSteamRemoteStorageFileAsync( "cfg/last_match.dat" ) -> at 279.755
+06/13 11:14:51 [HostStateManager] HostStateRequest::Start(HSR_GAME):  loop(remoteconnect) id(2) addons() desc(Remote Connect (=[A:1:1083000848:29593]))
+06/13 11:14:51 [EngineServiceManager] SwitchToLoop remoteconnect requested:  id [2] addons []
+06/13 11:14:51 CAsyncWriteInProgress::OnComplete( "scripts/dota_local_disk_lobby_data.txt" ) -> Success at 279.760
+06/13 11:14:51 CAsyncWriteInProgress::OnComplete( "cfg/last_match.dat" ) -> Success at 279.875
+06/13 11:14:51 Excessive frame time of 119.80ms clamped.  Acting as if the frame only took 100.00ms
+06/13 11:14:51 
+06/13 11:14:51 [GCClient] Send msg 8840 (k_EMsgClientToGCCandyShopGetUserData), 19 bytes
+06/13 11:14:51 [Client] CL:  IGameSystem::LoopDeactivateAllSystems {
+06/13 11:14:51 WriteSteamRemoteStorageFileAsync( "scripts/control_groups.txt" ) -> at 280.083
+06/13 11:14:51 [Client] CL:  } IGameSystem::LoopDeactivateAllSystems done
+06/13 11:14:51 [Client] CL:  Disconnecting from server: NETWORK_DISCONNECT_LOOPDEACTIVATE
+06/13 11:14:51 [NetSteamConn] Closing Steam Net Connection on socket 'client' to loopback:1, handle #187683610 (2055 NETWORK_DISCONNECT_LOOPDEACTIVATE)
+06/13 11:14:51 [NetSteamConn] CloseSteamNetConnection handle #187683610 (userdata 1)
+06/13 11:14:51 [NetSteamConn] Disassociating NetChan server @  (unknown) from Steam Net Connection handle #187683610 (userdata 1)
+06/13 11:14:51 [SteamNetSockets] [#187683610 pipe 'server'] closed by app, linger requested but not needed (2055) NETWORK_DISCONNECT_LOOPDEACTIVATE
+06/13 11:14:51 [SteamNetSockets] [#2776741134 pipe 'Immortal Baby Im  Coming'] closed by peer (2055): NETWORK_DISCONNECT_LOOPDEACTIVATE
+06/13 11:14:51 [NetSteamConn] Removing Steam Net Connection for loopback:1, handle #187683610
+06/13 11:14:51 [Networking] Closing 'client' poll group
+06/13 11:14:52 [Server] SV:  IGameSystem::LoopDeactivateAllSystems {
+06/13 11:14:52 [Host] HO:  IGameSystem::LoopDeactivateAllSystems {
+06/13 11:14:52 [Host] HO:  } IGameSystem::LoopDeactivateAllSystems done
+06/13 11:14:52 [Server] SV:  } IGameSystem::LoopDeactivateAllSystems done
+06/13 11:14:52 [Server] SV:  Server shutting down: NETWORK_DISCONNECT_LOOPDEACTIVATE (55)
+06/13 11:14:52 [Server] CNetworkGameServerBase::SetServerState (ss_active -> ss_dead)
+06/13 11:14:52 [Server] SV:  Disconnect client 'Immortal Baby Im  Coming' from server(1): NETWORK_DISCONNECT_SHUTDOWN
+06/13 11:14:52 [SignonState] Client 0 'Immortal Baby Im  Coming' signon state SIGNONSTATE_FULL -> SIGNONSTATE_NONE
+06/13 11:14:52 [NetSteamConn] Closing Steam Net Connection on socket 'server' to loopback:0, handle #2776741134 (1001 NETWORK_DISCONNECT_SHUTDOWN)
+06/13 11:14:52 [NetSteamConn] CloseSteamNetConnection handle #2776741134 (userdata 0)
+06/13 11:14:52 [NetSteamConn] Disassociating NetChan Immortal Bab @  (unknown) from Steam Net Connection handle #2776741134 (userdata 0)
+06/13 11:14:52 [NetSteamConn] Removing Steam Net Connection for loopback:0, handle #2776741134
+06/13 11:14:52 CPlayerVoiceListener::PostSpawnGroupUnload()
+06/13 11:14:52 [Networking] Closing 'server' poll group
+06/13 11:14:52 [stringtables] SV: CNetworkStringTableContainer::RemoveAllTables:  removing 19 tables
+06/13 11:14:52 [stringtables] CL: CNetworkStringTableContainer::RemoveAllTables:  removing 19 tables
+06/13 11:14:52 WriteSteamRemoteStorageFileAsync( "voice_ban.dt" ) -> at 281.065
+06/13 11:14:53 CPlayerVoiceListener::GameShutdown()
+06/13 11:14:53 [SignonState] CL:  CNetworkGameClient::OnSwitchLoopModeFinished( remoteconnect : success )
+06/13 11:14:53 CAsyncWriteInProgress::OnComplete( "scripts/control_groups.txt" ) -> Success at 281.250
+06/13 11:14:53 [GCClient] Recv msg 8841 (k_EMsgClientToGCCandyShopGetUserDataResponse), 231 bytes
+06/13 11:14:53 [GCClient] Recv msg 8842 (k_EMsgGCToClientCandyShopUserDataUpdated), 222 bytes
+06/13 11:14:53 CAsyncWriteInProgress::OnComplete( "voice_ban.dt" ) -> Success at 281.252
+06/13 11:14:53 [NetSteamConn] Steam Net connection #2776741134 pipe 'Immortal Baby Im  Coming' closed by peer, reason 2055: NETWORK_DISCONNECT_LOOPDEACTIVATE
+06/13 11:14:53 [NetSteamConn] CloseSteamNetConnection handle #2776741134 (userdata -1)
+06/13 11:14:53 [NetSteamConn] Opened Steam Net Connection on socket 'client' to =[A:1:1083000848:29593], connection #3586246288 SDR server steamid:90199094597601296 vport 0
+06/13 11:14:53 [Networking] Created poll group for socket 'client'
+06/13 11:14:53 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0] Requesting session from dxb#58 (185.25.183.179:27026).  Ping = 131 = 54+77 (front+back).  Rank=1 Score=159
+06/13 11:14:53 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0] Selecting dxb#58 (185.25.183.179:27026) as primary.  (Ping = 131 = 54+77+0 (front+interior+remote).  Rank=1 Score=136)
+06/13 11:14:53 [SteamNetSockets] SteamNetworkingSockets lock held for 8.7ms.  (Performance warning.)  ServiceThread,SteamDatagramClientThinker::Think,EnsureDataCenterRoutesValid,ThinkPingProbes,CreateServerDataForCluster(x11),SendUDPacket(x10),ThinkSelectServer
+This is usually a symptom of a general performance problem such as thread starvation.
+06/13 11:14:53 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0] Requesting session from sgp#138 (103.10.124.118:27060).  Ping = 122 = 121+1 (front+back).  Rank=2 Score=157
+06/13 11:14:53 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0] Selecting sgp#138 (103.10.124.118:27060) as backup #1 (Ping = 122 = 121+1+0 (front+interior+remote).  Rank=1 Score=134)
+06/13 11:14:53 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0] connected
+06/13 11:14:53 [SteamNetSockets] DualWifi not detected.  We won't try again.  Didn't find any Dual-Wifi-capable Wifi adapters
+06/13 11:14:53 [SteamNetSockets] SteamNetworkingSockets lock held for 235.9ms.  (Performance warning.)  ServiceThread,RecvUDPPacket(x4),BRecvCryptoHandshake,BFinishCryptoHandshake(x2),PostConnectionStateUpdateForDiagnosticsUI(x2),CSteamNetworkConnectionBase::Think(x2),SteamDatagramClientThinker::Think,EnsureDataCenterRoutesValid,ThinkPingProbes,CreateServer
+This is usually a symptom of a general performance problem such as thread starvation.
+06/13 11:14:54 [Client] Sending connect to =[A:1:1083000848:29593]
+06/13 11:14:55 [Client] Received S2C_CHALLENGE [0 auth 3] from =[A:1:1083000848:29593]
+06/13 11:14:55 [Client] Sending C2S_CONNECT [47 protocol 0 auth 3] to =[A:1:1083000848:29593]
+06/13 11:14:55 [Client] Received S2C_CONNECTION from =[A:1:1083000848:29593] [addons:'']
+06/13 11:14:55 [NetSteamConn] Associating NetChan server @ =[A:1:1083000848:29593] (=[A:1:1083000848:29593]) with Steam Net Connection handle #3586246288 (userdata 0)
+06/13 11:14:55 [Client] CL:  Connected to '=[A:1:1083000848:29593]'
+06/13 11:14:55 [SignonState] CL:  Suppress INetchannel::Transmit() in loopmode( remoteconnect )
+06/13 11:14:55 [Client] CL:  CLoopModeRemoteConnect::OnClientFrameSimulate switching to "levelload" loopmode with addons:  
+06/13 11:14:55 [EngineServiceManager] SwitchToLoop levelload requested:  id [2] addons []
+06/13 11:14:56 No cursor image files for 'resource\cursor\workshop\dctimber_fancy\cursor_inivisible.bmp'
+06/13 11:14:56 ChangeGameUIState: DOTA_GAME_UI_STATE_DASHBOARD -> DOTA_GAME_UI_STATE_LOADING_SCREEN
+06/13 11:14:56 [Client] LoadingDisplay changed from NONE to PRE_LOADING (map="")
+06/13 11:14:56 [SignonState] CL:  CNetworkGameClient::OnSwitchLoopModeFinished( levelload : success )
+06/13 11:14:56 [SignonState] CL:  Permit INetchannel::Transmit()
+06/13 11:14:56 [Client] CL:  CLoopModeLevelLoad::MaybeSwitchToGameLoop switching to "game" loopmode with addons ()
+06/13 11:14:56 [EngineServiceManager] SwitchToLoop game requested:  id [2] addons []
+06/13 11:14:56 [Client] CL:  CNetworkGameClient already exists for connection to '=[A:1:1083000848:29593]'
+06/13 11:14:56 [Client] CL:  connection to '=[A:1:1083000848:29593]' already started
+06/13 11:14:56 [ResourceSystem] Failed loading resource "panorama/images/players/0_png.vtex_c" (ERROR_FILEOPEN: File not found)
+06/13 11:14:57 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:14:57 [Client] Game: "Dota 2"
+06/13 11:14:57 [Client] Map: "start"
+06/13 11:14:57 [Client] Players: 10 (1 bots) / 64 humans
+06/13 11:14:57 [Client] Build: 10088 (revision 8969767)
+06/13 11:14:57 [Client] Server Number: 3
+06/13 11:14:57 [SignonState] CL:  CNetworkGameClient::ProcessServerInfo
+06/13 11:14:58 DOTABaseGameMode::Spawn()
+06/13 11:14:58 [VScript] Scripting disabled or no server running
+06/13 11:14:58 DOTABaseGameMode::Activate
+06/13 11:14:58 C:Gamerules: entering state 'DOTA_GAMERULES_STATE_INIT'
+06/13 11:14:58 [Client] LoadingDisplay changed from PRE_LOADING to NONE (map="start")
+06/13 11:14:58 [Client] CDOTA_Hud_Main::EventGameRulesStateChanged DOTA_GAMERULES_STATE_INIT
+06/13 11:14:58 [Client] CDOTA_Hud_Main::DeleteGameEndScreen deleted GameEndContainer
+06/13 11:14:58 [Client] CL:  CGameRulesGameSystem::GameInit installed game rules
+06/13 11:14:58 ReadSteamRemoteStorageFile( bufOut, "voice_ban.dt" ) -> 0.003990 seconds
+06/13 11:14:59 [Networking] NetChan server ProcessMessages has taken more than 1180ms to process 40 messages.  (Current message type: 'NetMessagePacketStart [-1]')
+06/13 11:14:59 [Client] PregameHud - eGameState is now DOTA_GAMERULES_STATE_LAST
+06/13 11:14:59 [Client] PregameHud - SetPreGameVisible 1
+06/13 11:14:59 [Client] PregameHud - bIsPreloading is now 1
+06/13 11:14:59 [Client] PregameHud - eGameState is now DOTA_GAMERULES_STATE_INIT
+06/13 11:14:59 Not using any transition effect when the base model or summon models are not the same or pet modifier is present.
+06/13 11:15:00 [Client] CNetworkGameClient::ProcessClassInfo: create on client true
+06/13 11:15:00 [Client] CNetworkGameClient::ProcessClassInfo: creating client serializers from local server serializers (crc 0, server api exists)
+06/13 11:15:01 [Client] Client missing networkable entity class CLightGlow
+06/13 11:15:02 [Client] Client missing networkable entity class CMoverPathNode
+06/13 11:15:02 [Client] Client missing networkable entity class CPathMover
+06/13 11:15:02 [Client] Client missing networkable entity class CPhysMagnet
+06/13 11:15:02 [Client] Client missing networkable entity class CSpotlightEnd
+06/13 11:15:02 [Client] CNetworkGameClientBase::LinkClasses took 1058.515 msec
+06/13 11:15:06 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:06 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:10 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:11 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:11 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:12 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:13 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:19 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:20 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:21 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:21 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:22 [GCClient] Recv msg 25 (k_ESOMsg_CacheUnsubscribed), 21 bytes
+06/13 11:15:22 [GCClient] Recv msg 26 (k_ESOMsg_UpdateMultiple), 148 bytes
+06/13 11:15:22 [GCClient] Recv msg 26 (k_ESOMsg_UpdateMultiple), 310 bytes
+06/13 11:15:22 [GCClient] Recv msg 26 (k_ESOMsg_UpdateMultiple), 163 bytes
+06/13 11:15:25 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:27 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:27 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:28 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 2 reply timeouts, last recv 3831.1ms ago.  Sending keepalive.
+06/13 11:15:28 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 2 reply timeouts, last recv 4031.9ms ago.  Sending keepalive.
+06/13 11:15:28 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:28 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 2 reply timeouts, last recv 4232.2ms ago.  Sending keepalive.
+06/13 11:15:29 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 3 reply timeouts, last recv 4634.3ms ago.  Sending keepalive.
+06/13 11:15:29 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 3 reply timeouts, last recv 4834.7ms ago.  Sending keepalive.
+06/13 11:15:29 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:29 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 3 reply timeouts, last recv 5035.1ms ago.  Sending keepalive.
+06/13 11:15:29 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 3 reply timeouts, last recv 5235.8ms ago.  Sending keepalive.
+06/13 11:15:30 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 4 reply timeouts, last recv 5637.7ms ago.  Sending keepalive.
+06/13 11:15:30 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 4 reply timeouts, last recv 5838.7ms ago.  Sending keepalive.
+06/13 11:15:30 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 5 reply timeouts, last recv 6040.0ms ago.  Sending keepalive.
+06/13 11:15:30 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 5 reply timeouts, last recv 6240.5ms ago.  Sending keepalive.
+06/13 11:15:30 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 5 reply timeouts, last recv 6441.0ms ago.  Sending keepalive.
+06/13 11:15:31 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 6 reply timeouts, last recv 6641.1ms ago.  Sending keepalive.
+06/13 11:15:31 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 6 reply timeouts, last recv 6842.9ms ago.  Sending keepalive.
+06/13 11:15:31 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 6 reply timeouts, last recv 7044.3ms ago.  Sending keepalive.
+06/13 11:15:31 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 7 reply timeouts, last recv 7245.8ms ago.  Sending keepalive.
+06/13 11:15:31 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 7 reply timeouts, last recv 7447.9ms ago.  Sending keepalive.
+06/13 11:15:32 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 7 reply timeouts, last recv 7649.2ms ago.  Sending keepalive.
+06/13 11:15:32 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 8 reply timeouts, last recv 7849.9ms ago.  Sending keepalive.
+06/13 11:15:32 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 8 reply timeouts, last recv 8050.4ms ago.  Sending keepalive.
+06/13 11:15:32 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 8 reply timeouts, last recv 8251.0ms ago.  Sending keepalive.
+06/13 11:15:32 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 9 reply timeouts, last recv 8451.4ms ago.  Sending keepalive.
+06/13 11:15:33 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 9 reply timeouts, last recv 8653.5ms ago.  Sending keepalive.
+06/13 11:15:33 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 9 reply timeouts, last recv 8853.9ms ago.  Sending keepalive.
+06/13 11:15:33 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 9 reply timeouts, last recv 9055.1ms ago.  Sending keepalive.
+06/13 11:15:33 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 10 reply timeouts, last recv 9255.6ms ago.  Sending keepalive.
+06/13 11:15:33 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 10 reply timeouts, last recv 9456.8ms ago.  Sending keepalive.
+06/13 11:15:34 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 10 reply timeouts, last recv 9858.4ms ago.  Sending keepalive.
+06/13 11:15:34 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 11 reply timeouts, last recv 10000.6ms ago.  Sending keepalive.
+06/13 11:15:34 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 11 reply timeouts, last recv 10059.3ms ago.  Sending keepalive.
+06/13 11:15:34 [Networking] server @ =[A:1:1083000848:29593]: timing out, last received 190.221299 [8.01 seconds ago]
+06/13 11:15:34 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 11 reply timeouts, last recv 10260.1ms ago.  Sending keepalive.
+06/13 11:15:34 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 11 reply timeouts, last recv 10460.5ms ago.  Sending keepalive.
+06/13 11:15:35 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 11 reply timeouts, last recv 10662.0ms ago.  Sending keepalive.
+06/13 11:15:35 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 12 reply timeouts, last recv 10692.9ms ago.  Sending keepalive.
+06/13 11:15:35 [SteamNetSockets] Waited 3.3ms for SteamNetworkingSockets lock [SetConfigValue]
+06/13 11:15:35 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:35 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 12 reply timeouts, last recv 10862.5ms ago.  Sending keepalive.
+06/13 11:15:35 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 12 reply timeouts, last recv 11062.5ms ago.  Sending keepalive.
+06/13 11:15:35 [SteamNetSockets] Waited 3.0ms for SteamNetworkingSockets lock [GetSessionConnectionInfo]
+06/13 11:15:35 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 12 reply timeouts, last recv 11264.4ms ago.  Sending keepalive.
+06/13 11:15:35 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 13 reply timeouts, last recv 11385.2ms ago.  Sending keepalive.
+06/13 11:15:35 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 13 reply timeouts, last recv 11464.5ms ago.  Sending keepalive.
+06/13 11:15:36 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:36 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 13 reply timeouts, last recv 11664.6ms ago.  Sending keepalive.
+06/13 11:15:36 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 13 reply timeouts, last recv 11865.4ms ago.  Sending keepalive.
+06/13 11:15:36 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 13 reply timeouts, last recv 12066.5ms ago.  Sending keepalive.
+06/13 11:15:36 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 14 reply timeouts, last recv 12078.3ms ago.  Sending keepalive.
+06/13 11:15:36 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 14 reply timeouts, last recv 12267.5ms ago.  Sending keepalive.
+06/13 11:15:36 [SteamNetSockets] Waited 3.5ms for SteamNetworkingSockets lock [SetConfigValue]
+06/13 11:15:36 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:36 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 14 reply timeouts, last recv 12467.6ms ago.  Sending keepalive.
+06/13 11:15:37 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 14 reply timeouts, last recv 12668.1ms ago.  Sending keepalive.
+06/13 11:15:37 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 15 reply timeouts, last recv 12771.0ms ago.  Sending keepalive.
+06/13 11:15:37 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 15 reply timeouts, last recv 12869.2ms ago.  Sending keepalive.
+06/13 11:15:37 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] 15 reply timeouts, last recv 13070.3ms ago.  Sending keepalive.
+06/13 11:15:37 [SteamNetSockets] Waited 2.7ms for SteamNetworkingSockets lock [GetSessionConnectionInfo]
+06/13 11:15:37 [Client] CL:  CGameClientConnectPrerequisite connection succeeded
+06/13 11:15:37 ChangeGameUIState: DOTA_GAME_UI_STATE_LOADING_SCREEN -> DOTA_GAME_UI_DOTA_INGAME
+06/13 11:15:37 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] Timed out.  13234.7ms since last recv, 10005.9ms since timeout started, 15 consecutive failures
+06/13 11:15:37 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] problem detected locally (4001): Timeout; remote problem. Rx age server 13.2s relay 0.1s
+06/13 11:15:37 [Client] CL:  IGameSystem::LoopActivateAllSystems {
+06/13 11:15:37 [Host] HO:  IGameSystem::LoopActivateAllSystems {
+06/13 11:15:37 [Host] HO:  } IGameSystem::LoopActivateAllSystems done
+06/13 11:15:37 ReadSteamRemoteStorageFile( bufOut, "scripts/control_groups.txt" ) -> 0.003557 seconds
+06/13 11:15:37 No cursor image files for 'resource\cursor\workshop\dctimber_fancy\cursor_inivisible.bmp'
+06/13 11:15:37 [Client] CL:  } IGameSystem::LoopActivateAllSystems done
+06/13 11:15:37 [HostStateManager] Host activate: Remote Connect (=[A:1:1083000848:29593])
+06/13 11:15:37 [SignonState] CL:  CNetworkGameClient::OnSwitchLoopModeFinished( game : success )
+06/13 11:15:38 Job EconItemSearch has spent >3.000ms without yielding: 339.356ms
+06/13 11:15:38 [NetSteamConn] Steam Net connection #3586246288 SDR server steamid:90199094597601296 vport 0 'server' problem detected locally, reason 4001: Timeout; remote problem. Rx age server 13.2s relay 0.1s
+06/13 11:15:38 [Networking] Timeout; remote problem. Rx age server 13.2s relay 0.1s
+06/13 11:15:38 [NetSteamConn] Closing Steam Net Connection on socket 'client' to =[A:1:1083000848:29593], handle #3586246288 (0 (null))
+06/13 11:15:38 [NetSteamConn] CloseSteamNetConnection handle #3586246288 (userdata 0)
+06/13 11:15:38 [NetSteamConn] Disassociating NetChan server @ =[A:1:1083000848:29593] (=[A:1:1083000848:29593]) from Steam Net Connection handle #3586246288 (userdata 0)
+06/13 11:15:38 [NetSteamConn] Removing Steam Net Connection for =[A:1:1083000848:29593], handle #3586246288
+06/13 11:15:38 Job EconItemSearch has spent >3.000ms without yielding: 10.018ms
+06/13 11:15:38 [SOCache] CGCSOCacheUnsubscribedJob(owner=<Lobby:28827340560360532>)
+06/13 11:15:38 Telling Steam it is safe to update the app
+06/13 11:15:38 WriteSteamRemoteStorageFileAsync( "cfg/last_match.dat" ) -> at 326.474
+06/13 11:15:38 [Client] Disconnection during connection phase. Sign-on state: 5 (SIGNONSTATE_SPAWN). Disconnect reason: 79 (NETWORK_DISCONNECT_REMOTE_TIMEOUT).
+06/13 11:15:38 [Client] CL:  Server disconnected: 79: NETWORK_DISCONNECT_REMOTE_TIMEOUT
+06/13 11:15:38 [Client] CL:  Disconnecting from server: NETWORK_DISCONNECT_REMOTE_TIMEOUT
+06/13 11:15:38 [Networking] Closing 'client' poll group
+06/13 11:15:38 [HostStateManager] CHostStateMgr::QueueNewRequest( Idle (levelload), 3 )
+06/13 11:15:38 CAsyncWriteInProgress::OnComplete( "cfg/last_match.dat" ) -> Success at 326.492
+06/13 11:15:38 [Client] PregameHud - SetPreGameVisible 0
+06/13 11:15:38 Job EconItemSearch has spent >3.000ms without yielding: 10.021ms
+06/13 11:15:38 [HostStateManager] HostStateRequest::Start(HSR_IDLE):  loop(levelload) id(3) addons() desc(Idle (levelload))
+06/13 11:15:38 [EngineServiceManager] SwitchToLoop levelload requested:  id [3] addons []
+06/13 11:15:38 Excessive frame time of 419.03ms clamped.  Acting as if the frame only took 100.00ms.  (Last amnesty was 'level_load', 0.54s ago)
+06/13 11:15:38 
+06/13 11:15:38 Job EconItemSearch has spent >3.000ms without yielding: 10.019ms
+06/13 11:15:38 Job EconItemSearch has spent >3.000ms without yielding: 11.322ms
+06/13 11:15:38 Job EconItemSearch has spent >3.000ms without yielding: 10.019ms
+06/13 11:15:38 Job EconItemSearch has spent >3.000ms without yielding: 10.087ms
+06/13 11:15:38 Job EconItemSearch has spent >3.000ms without yielding: 10.080ms
+06/13 11:15:39 [Client] CL:  IGameSystem::LoopDeactivateAllSystems {
+06/13 11:15:39 WriteSteamRemoteStorageFileAsync( "scripts/control_groups.txt" ) -> at 327.676
+06/13 11:15:39 [Host] HO:  IGameSystem::LoopDeactivateAllSystems {
+06/13 11:15:39 [Host] HO:  } IGameSystem::LoopDeactivateAllSystems done
+06/13 11:15:39 [Client] CL:  } IGameSystem::LoopDeactivateAllSystems done
+06/13 11:15:39 [stringtables] CL: CNetworkStringTableContainer::RemoveAllTables:  removing 19 tables
+06/13 11:15:41 ILocalize::AddFile() failed to load file "resource/localization/broadcastfacts_english.txt".
+06/13 11:15:42 [Client] CL:  CGameRulesGameSystem::GameShutdown uninstalled game rules
+06/13 11:15:42 [Client] CL:  CGameRules::CGameRules destructed
+06/13 11:15:42 WriteSteamRemoteStorageFileAsync( "voice_ban.dt" ) -> at 330.283
+06/13 11:15:42 No cursor image files for 'resource\cursor\workshop\dctimber_fancy\cursor_inivisible.bmp'
+06/13 11:15:42 ChangeGameUIState: DOTA_GAME_UI_DOTA_INGAME -> DOTA_GAME_UI_STATE_LOADING_SCREEN
+06/13 11:15:42 [Client] LoadingDisplay changed from NONE to LOADING (map="")
+06/13 11:15:42 [HostStateManager] Host activate: Idle (levelload)
+06/13 11:15:42 [InputSystem] Processing SDL events took 5.5ms
+06/13 11:15:42 CAsyncWriteInProgress::OnComplete( "scripts/control_groups.txt" ) -> Success at 330.318
+06/13 11:15:42 CAsyncWriteInProgress::OnComplete( "voice_ban.dt" ) -> Success at 330.319
+06/13 11:15:42 [Client] CL:  CLoopModeLevelLoad::MaybeSwitchToGameLoop switching to "game" loopmode with addons ()
+06/13 11:15:42 [EngineServiceManager] SwitchToLoop game requested:  id [3] addons []
+06/13 11:15:42 [GCClient] Send msg 2569 (k_EMsgClientToGCEquipItems), 33 bytes
+06/13 11:15:42 [ResourceSystem] Failed loading resource "panorama/images/spellicons/dota_base_ability_png.vtex_c" (ERROR_FILEOPEN: File not found)
+06/13 11:15:42 [ResourceSystem] Failed loading resource "panorama/images/players/0_png.vtex_c" (ERROR_FILEOPEN: File not found)
+06/13 11:15:42 [Server] CNetworkGameServerBase::SetServerState (ss_dead -> ss_waitingforgamesessionmanifest)
+06/13 11:15:42 [Server] SV:  maxplayers set to 1
+06/13 11:15:42 Initializing script VM...
+06/13 11:15:42 ...done
+06/13 11:15:42 CPlayerVoiceListener::GameInit()
+06/13 11:15:42 [GCClient] Recv msg 26 (k_ESOMsg_UpdateMultiple), 125 bytes
+06/13 11:15:42 [GCClient] Recv msg 2570 (k_EMsgClientToGCEquipItemsResponse), 26 bytes
+06/13 11:15:42 Job EconItemSearch has spent >3.000ms without yielding: 10.028ms
+06/13 11:15:42 **** Panel TimeRangeSlider has fill-parent-flow for width, but isn't in a flowing right layout
+06/13 11:15:42 **** Panel TimeScrubSlider has fill-parent-flow for width, but isn't in a flowing right layout
+06/13 11:15:42 **** Panel SliderAndMarkers has fill-parent-flow for width, but isn't in a flowing right layout
+06/13 11:15:42 **** Panel TimeScrubSlider has fill-parent-flow for width, but isn't in a flowing right layout
+06/13 11:15:42 Job EconItemSearch has spent >3.000ms without yielding: 10.069ms
+06/13 11:15:42 Job EconItemSearch has spent >3.000ms without yielding: 10.023ms
+06/13 11:15:42 [Server] SV:  Spawn Server: <empty>
+06/13 11:15:42 [Server] CNetworkGameServerBase::SetServerState (ss_waitingforgamesessionmanifest -> ss_loading)
+06/13 11:15:42 [Server] CNetworkGameServerBase::SetServerState (ss_loading -> ss_active)
+06/13 11:15:42 [Client] CL:  CWaitForGameServerStartupPrerequisite done waiting for server
+06/13 11:15:42 [Client] CL:  CCreateGameClientJob creating client connection to 'loopback'
+06/13 11:15:43 [SteamNetSockets] [#3191663802 pipe] connected
+06/13 11:15:43 [SteamNetSockets] [#2040051034 pipe] connected
+06/13 11:15:43 [SteamNetSockets] SteamNetworkingSockets lock held for 7.8ms.  (Performance warning.)  CreateSocketPair,Base::BInitConnection(x2),FinalizeLocalCrypto(x2),BRecvCryptoHandshake(x2),BFinishCryptoHandshake(x4)
+This is usually a symptom of a general performance problem such as thread starvation.
+06/13 11:15:43 [Networking] Created poll group for socket 'client'
+06/13 11:15:43 [Networking] Created poll group for socket 'server'
+06/13 11:15:43 [Networking] Connected loopback client=be3cecba@loopback:1 <-> server=7998b55a@loopback:0
+06/13 11:15:43 [SteamNetSockets] Waited 2.1ms for SteamNetworkingSockets lock [ServiceThread]
+06/13 11:15:43 [NetSteamConn] Associating NetChan Immortal Bab @ loopback:0 (loopback:0) with Steam Net Connection handle #2040051034 (userdata 0)
+06/13 11:15:43 [NetSteamConn] Associating NetChan server @ loopback:1 (loopback:1) with Steam Net Connection handle #3191663802 (userdata 1)
+06/13 11:15:43 [Client] CL:  Connected to 'loopback:1'
+06/13 11:15:43 [Server] Client 0 'Immortal Baby Im  Coming' setting rate to 80000
+06/13 11:15:43 [Client] Game: "Dota 2"
+06/13 11:15:43 [Client] Map: "<empty>"
+06/13 11:15:43 [Client] Players: 1 (0 bots) / 1 humans
+06/13 11:15:43 [Client] Build: 10088 (revision 8969767)
+06/13 11:15:43 [Client] Server Number: 2
+06/13 11:15:43 [SignonState] CL:  CNetworkGameClient::ProcessServerInfo
+06/13 11:15:43 ReadSteamRemoteStorageFile( bufOut, "voice_ban.dt" ) -> 0.002254 seconds
+06/13 11:15:43 [Client] CNetworkGameClient::ProcessClassInfo: create on client true
+06/13 11:15:43 [Client] CNetworkGameClient::ProcessClassInfo: creating client serializers from local server serializers (crc 0, server api exists)
+06/13 11:15:43 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] Discarding inactive session sgp#138 (103.10.124.118:27060).  ConnectionShutdown
+06/13 11:15:43 [SteamNetSockets] [#3586246288 SDR server steamid:90199094597601296 vport 0 'server'] Discarding inactive session dxb#58 (185.25.183.179:27026).  ConnectionShutdown
+06/13 11:15:43 [Client] Client missing networkable entity class CLightGlow
+06/13 11:15:43 [Client] Client missing networkable entity class CMoverPathNode
+06/13 11:15:43 [Client] Client missing networkable entity class CPathMover
+06/13 11:15:43 [Client] Client missing networkable entity class CPhysMagnet
+06/13 11:15:43 [Client] Client missing networkable entity class CSpotlightEnd
+06/13 11:15:43 [Client] CNetworkGameClientBase::LinkClasses took 737.987 msec
+06/13 11:15:47 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:48 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:15:52 [GCClient] Send msg 4523 (k_EMsgClientToGCAggregateMetrics), 31 bytes
+06/13 11:15:55 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:16:00 [Client] CL:  CGameClientConnectPrerequisite connection succeeded
+06/13 11:16:00 ChangeGameUIState: DOTA_GAME_UI_STATE_LOADING_SCREEN -> DOTA_GAME_UI_STATE_DASHBOARD
+06/13 11:16:00 [Client] LoadingDisplay changed from LOADING to NONE (map="<empty>")
+06/13 11:16:00 [Server] SV:  IGameSystem::LoopActivateAllSystems {
+06/13 11:16:00 [Host] HO:  IGameSystem::LoopActivateAllSystems {
+06/13 11:16:00 [Host] HO:  } IGameSystem::LoopActivateAllSystems done
+06/13 11:16:00 [Server] SV:  } IGameSystem::LoopActivateAllSystems done
+06/13 11:16:00 [Server] SV:  Game started
+06/13 11:16:00 [Client] CL:  IGameSystem::LoopActivateAllSystems {
+06/13 11:16:00 ReadSteamRemoteStorageFile( bufOut, "scripts/control_groups.txt" ) -> 0.002793 seconds
+06/13 11:16:00 [Client] CL:  } IGameSystem::LoopActivateAllSystems done
+06/13 11:16:00 [SignonState] CL:  CNetworkGameClient::OnSwitchLoopModeFinished( game : success )
+06/13 11:16:00 [GCClient] Send msg 7197 (k_EMsgGCMatchmakingStatsRequest), 8 bytes
+06/13 11:16:01 Job CDOTALeagueShared::Reload has spent >3.000ms without yielding: 24.971ms
+06/13 11:16:01 [Server] SV:  Sending full update to client Immortal Baby Im  Coming (reason:  initial update)
+06/13 11:16:01 [Client] Receiving 0.0K non-incremental update from server
+06/13 11:16:01 [Networking] server @ loopback:1:  NetChan Setting Timeout to 30.00 seconds
+06/13 11:16:01 [Client] CL:  Signon traffic "server":  incoming 39.490 KB [674 pkts], outgoing 3.851 KB [675 pkts]
+06/13 11:16:01 [Networking] Immortal Bab @ loopback:0:  NetChan Setting Timeout to 20.00 seconds
+06/13 11:16:02 [GCClient] Recv msg 7198 (k_EMsgGCMatchmakingStatsResponse), 325 bytes
+06/13 11:16:03 CSwapChainBase::QueuePresentAndWait() looped for 21 iterations without a present event.
+06/13 11:16:03 Bailing out of OnBlockForQuery after 0.250 seconds
+06/13 11:16:03 Excessive frame time of 265.69ms clamped.  Acting as if the frame only took 100.00ms.  (Last amnesty was 'level_load', 1.54s ago)
+06/13 11:16:03 
+06/13 11:16:03 CSwapChainBase::QueuePresentAndWait() looped for 21 iterations without a present event.
+06/13 11:16:03 Excessive frame time of 571.88ms clamped.  Acting as if the frame only took 100.00ms.  (Last amnesty was 'level_load', 2.11s ago)
+06/13 11:16:03 
+06/13 11:16:03 [InputSystem] Processing SDL events took 5.2ms
+06/13 11:16:04 Excessive frame time of 107.36ms clamped.  Acting as if the frame only took 100.00ms.  (Last amnesty was 'level_load', 2.27s ago)
+06/13 11:16:04 
+06/13 11:16:04 Excessive frame time of 122.10ms clamped.  Acting as if the frame only took 100.00ms.  (Last amnesty was 'level_load', 2.85s ago)
+06/13 11:16:04 
+06/13 11:16:09 [HostStateManager] CHostStateMgr::QueueNewRequest( Quitting, 4 )
+06/13 11:16:10 [HostStateManager] HostStateRequest::Start(HSR_QUIT)
+06/13 11:16:10 [Client] CL:  Disconnecting from server: NETWORK_DISCONNECT_EXITING
+06/13 11:16:10 [NetSteamConn] Closing Steam Net Connection on socket 'client' to loopback:1, handle #3191663802 (1059 NETWORK_DISCONNECT_EXITING)
+06/13 11:16:10 [NetSteamConn] CloseSteamNetConnection handle #3191663802 (userdata 1)
+06/13 11:16:10 [NetSteamConn] Disassociating NetChan server @  (unknown) from Steam Net Connection handle #3191663802 (userdata 1)
+06/13 11:16:10 [SteamNetSockets] [#3191663802 pipe 'server'] closed by app, linger requested but not needed (1059) NETWORK_DISCONNECT_EXITING
+06/13 11:16:10 [SteamNetSockets] [#2040051034 pipe 'Immortal Baby Im  Coming'] closed by peer (1059): NETWORK_DISCONNECT_EXITING
+06/13 11:16:10 [NetSteamConn] Removing Steam Net Connection for loopback:1, handle #3191663802
+06/13 11:16:10 [Networking] Closing 'client' poll group
+06/13 11:16:10 [Server] SV:  Server shutting down: NETWORK_DISCONNECT_EXITING (59)
+06/13 11:16:10 [Server] CNetworkGameServerBase::SetServerState (ss_active -> ss_dead)
+06/13 11:16:10 [Server] SV:  Disconnect client 'Immortal Baby Im  Coming' from server(1): NETWORK_DISCONNECT_SHUTDOWN
+06/13 11:16:10 [SignonState] Client 0 'Immortal Baby Im  Coming' signon state SIGNONSTATE_FULL -> SIGNONSTATE_NONE
+06/13 11:16:10 [NetSteamConn] Closing Steam Net Connection on socket 'server' to loopback:0, handle #2040051034 (1001 NETWORK_DISCONNECT_SHUTDOWN)
+06/13 11:16:10 [NetSteamConn] CloseSteamNetConnection handle #2040051034 (userdata 0)
+06/13 11:16:10 [NetSteamConn] Disassociating NetChan Immortal Bab @  (unknown) from Steam Net Connection handle #2040051034 (userdata 0)
+06/13 11:16:10 [NetSteamConn] Removing Steam Net Connection for loopback:0, handle #2040051034
+06/13 11:16:10 CPlayerVoiceListener::PostSpawnGroupUnload()
+06/13 11:16:10 [Networking] Closing 'server' poll group
+06/13 11:16:10 [Client] CL:  IGameSystem::LoopDeactivateAllSystems {
+06/13 11:16:10 WriteSteamRemoteStorageFileAsync( "scripts/control_groups.txt" ) -> at 358.837
+06/13 11:16:10 [Client] CL:  } IGameSystem::LoopDeactivateAllSystems done
+06/13 11:16:10 [stringtables] CL: CNetworkStringTableContainer::RemoveAllTables:  removing 19 tables
+06/13 11:16:10 [Server] SV:  IGameSystem::LoopDeactivateAllSystems {
+06/13 11:16:10 [Host] HO:  IGameSystem::LoopDeactivateAllSystems {
+06/13 11:16:10 [Host] HO:  } IGameSystem::LoopDeactivateAllSystems done
+06/13 11:16:10 [Server] SV:  } IGameSystem::LoopDeactivateAllSystems done
+06/13 11:16:10 [stringtables] SV: CNetworkStringTableContainer::RemoveAllTables:  removing 19 tables
+06/13 11:16:11 WriteSteamRemoteStorageFileAsync( "voice_ban.dt" ) -> at 359.565
+06/13 11:16:11 CPlayerVoiceListener::GameShutdown()
+06/13 11:16:12 [HostStateManager] Host activate: Quitting
+06/13 11:16:12 Dispatching EventAppShutdown_t {
+06/13 11:16:12 [SplitScreen] Saved 'user_keys.vcfg' to SteamRemoteStorage, 87 bytes OK
+06/13 11:16:12 [SplitScreen] Saved user config file 'cfg/user_keys_0_slot0.vcfg': type 1
+06/13 11:16:12 [SplitScreen] Saved user config file 'cfg/user_keys_0_slot0.vcfg_lastclouded': type 3
+06/13 11:16:12 [SplitScreen] Saved 'user_convars.vcfg' to SteamRemoteStorage, 9981 bytes OK
+06/13 11:16:12 [SplitScreen] Saved user config file 'cfg/user_convars_0_slot0.vcfg': type 1
+06/13 11:16:12 [SplitScreen] Saved user config file 'cfg/user_convars_0_slot0.vcfg_lastclouded': type 3
+06/13 11:16:12 [SplitScreen] Saved 'user_keys.vcfg' to SteamRemoteStorage, 87 bytes OK
+06/13 11:16:12 [SplitScreen] Saved user config file 'cfg/user_keys_0_slot0.vcfg': type 1
+06/13 11:16:12 [SplitScreen] Saved user config file 'cfg/user_keys_0_slot0.vcfg_lastclouded': type 3
+06/13 11:16:12 [SplitScreen] Saved user config file 'cfg/user_keys_0_slot1.vcfg': type 1
+06/13 11:16:12 [SplitScreen] Saved user config file 'cfg/user_keys_0_slot2.vcfg': type 1
+06/13 11:16:12 [SplitScreen] Saved user config file 'cfg/user_keys_0_slot3.vcfg': type 1
+06/13 11:16:12 } Dispatched EventAppShutdown_t
+06/13 11:16:12 MainLoop returning
+06/13 11:16:12 Source2Shutdown
+06/13 11:16:12 ShutdownSource2Logging
